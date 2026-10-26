@@ -1,0 +1,6 @@
+{"ts": "2026-10-26T09:22:37.656537-07:00", "book": "scalp", "symbol": "MSFT", "side": "buy", "qty": 13, "px": 529.84, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MSFT-20261026092237"}
+{"ts": "2026-10-26T10:40:27.269558-07:00", "book": "scalp", "symbol": "COP", "side": "buy", "qty": 2, "px": 151.38, "reason": "action/PRIME", "r": 0.0, "id": "scalp-COP-20261026104027"}
+{"ts": "2026-10-26T11:14:57.039222-07:00", "book": "scalp", "symbol": "MSFT", "side": "sell", "qty": 6, "px": 531.3, "reason": "+2R take half", "r": 2.47, "id": "scalp-MSFT-20261026092237"}
+{"ts": "2026-10-26T11:14:57.039222-07:00", "book": "scalp", "symbol": "COP", "side": "sell", "qty": 1, "px": 151.47, "reason": "+2R take half", "r": 2.25, "id": "scalp-COP-20261026104027"}
+{"ts": "2026-10-26T11:42:54.958681-07:00", "book": "scalp", "symbol": "MSFT", "side": "sell", "qty": 7, "px": 532.26, "reason": "rotate for XOM", "r": 4.1, "id": "scalp-MSFT-20261026092237"}
+{"ts": "2026-10-26T11:42:54.958681-07:00", "book": "scalp", "symbol": "XOM", "side": "buy", "qty": 38, "px": 184.35, "reason": "action/PRIME", "r": 0.0, "id": "scalp-XOM-20261026114254"}

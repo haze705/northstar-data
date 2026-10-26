@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-26T08:58:06-07:00",
+  "asOf": "2026-10-26T13:25:11-07:00",
   "mode": "paper",
   "capital_locked_on": "2026-10-26",
   "books": {
@@ -7,19 +7,46 @@
       "held": 0,
       "names": [],
       "equity": 25000.0,
-      "currency": "CAD"
+      "cash": 25000.0,
+      "realized": 0.0,
+      "unrealized": 0,
+      "currency": "CAD",
+      "gate": "OPEN"
     },
     "scalp": {
-      "held": 0,
-      "names": [],
-      "equity": 10000.0,
-      "currency": "CAD"
+      "held": 2,
+      "names": [
+        {
+          "symbol": "COP",
+          "qty": 1,
+          "entry": 151.38,
+          "mark": 151.65,
+          "rNow": 6.75
+        },
+        {
+          "symbol": "XOM",
+          "qty": 38,
+          "entry": 184.35,
+          "mark": 184.42,
+          "rNow": 1.17
+        }
+      ],
+      "equity": 10039.35,
+      "cash": 230.68,
+      "realized": 35.33,
+      "unrealized": 4.01,
+      "currency": "CAD",
+      "gate": "FLATTEN"
     },
     "crypto": {
       "held": 0,
       "names": [],
       "equity": 5000.0,
-      "currency": "USDC"
+      "cash": 5000.0,
+      "realized": 0.0,
+      "unrealized": 0,
+      "currency": "USDC",
+      "gate": "CAUTION"
     }
   },
   "note": "Paper held layer. Paper Desk owns this file. Not live Coinbase/Wealthsimple."

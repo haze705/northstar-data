@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "positions": [
+    {
+      "id": "scalp-COP-20261026104027",
+      "book": "scalp",
+      "symbol": "COP",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-10-26T10:40:27.269558-07:00",
+      "entry": 151.38,
+      "qty": 1,
+      "qty0": 2,
+      "stop": 151.61,
+      "initStop": 151.34,
+      "mark": 151.65,
+      "rNow": 6.75,
+      "halfTaken": true,
+      "score": 99.0,
+      "why": "action/PRIME",
+      "target": 152.0
+    },
+    {
+      "id": "scalp-XOM-20261026114254",
+      "book": "scalp",
+      "symbol": "XOM",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-10-26T11:42:54.958681-07:00",
+      "entry": 184.35,
+      "qty": 38,
+      "qty0": 38,
+      "stop": 184.35,
+      "initStop": 184.29,
+      "mark": 184.42,
+      "rNow": 1.17,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 184.5
+    }
+  ],
+  "updatedAt": "2026-10-26T13:14:18.324967-07:00"
+}
