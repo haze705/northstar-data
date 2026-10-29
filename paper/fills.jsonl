@@ -59,3 +59,5 @@
 {"ts": "2026-10-29T11:47:29.423518-07:00", "book": "crypto", "symbol": "MEGA", "side": "sell", "qty": 36714.092777, "px": 0.046876, "reason": "stop", "r": -1.0, "id": "crypto-MEGA-20261029081551"}
 {"ts": "2026-10-29T12:10:49.078482-07:00", "book": "crypto", "symbol": "BCH", "side": "buy", "qty": 4.432917, "px": 287.6, "reason": "action/PRIME", "r": 0.0, "id": "crypto-BCH-20261029121049"}
 {"ts": "2026-10-29T12:21:09.211673-07:00", "book": "scalp", "symbol": "SMWB", "side": "sell", "qty": 3, "px": 8.92, "reason": "stop", "r": 1.5, "id": "scalp-SMWB-20261029104436"}
+{"ts": "2026-10-29T14:04:33.084378-07:00", "book": "scalp", "symbol": "AAPL", "side": "sell", "qty": 11, "px": 349.9, "reason": "stop", "r": 1.33, "id": "scalp-AAPL-20261029104436"}
+{"ts": "2026-10-29T14:04:33.084378-07:00", "book": "crypto", "symbol": "BCH", "side": "sell", "qty": 4.432917, "px": 276.45598, "reason": "stop", "r": -1.0, "id": "crypto-BCH-20261029121049"}
