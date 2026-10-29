@@ -4,3 +4,58 @@
 {"ts": "2026-10-26T11:14:57.039222-07:00", "book": "scalp", "symbol": "COP", "side": "sell", "qty": 1, "px": 151.47, "reason": "+2R take half", "r": 2.25, "id": "scalp-COP-20261026104027"}
 {"ts": "2026-10-26T11:42:54.958681-07:00", "book": "scalp", "symbol": "MSFT", "side": "sell", "qty": 7, "px": 532.26, "reason": "rotate for XOM", "r": 4.1, "id": "scalp-MSFT-20261026092237"}
 {"ts": "2026-10-26T11:42:54.958681-07:00", "book": "scalp", "symbol": "XOM", "side": "buy", "qty": 38, "px": 184.35, "reason": "action/PRIME", "r": 0.0, "id": "scalp-XOM-20261026114254"}
+{"ts": "2026-10-26T13:43:24.439404-07:00", "book": "scalp", "symbol": "COP", "side": "sell", "qty": 1, "px": 151.61, "reason": "stop", "r": 5.75, "id": "scalp-COP-20261026104027"}
+{"ts": "2026-10-26T13:43:24.439404-07:00", "book": "scalp", "symbol": "XOM", "side": "sell", "qty": 19, "px": 184.55, "reason": "+2R take half", "r": 3.33, "id": "scalp-XOM-20261026114254"}
+{"ts": "2026-10-27T07:48:01.403641-07:00", "book": "scalp", "symbol": "XOM", "side": "sell", "qty": 19, "px": 184.49, "reason": "stop", "r": 2.33, "id": "scalp-XOM-20261026114254"}
+{"ts": "2026-10-27T09:19:18.080004-07:00", "book": "crypto", "symbol": "SPX", "side": "buy", "qty": 4900.0392, "px": 0.3784, "reason": "action/PRIME", "r": 0.0, "id": "crypto-SPX-20261027091918"}
+{"ts": "2026-10-27T09:19:18.080004-07:00", "book": "crypto", "symbol": "PUNDIX", "side": "buy", "qty": 22706.630336, "px": 0.103, "reason": "action/PRIME", "r": 0.0, "id": "crypto-PUNDIX-20261027091918"}
+{"ts": "2026-10-27T09:46:33.456132-07:00", "book": "scalp", "symbol": "FROG", "side": "buy", "qty": 72, "px": 101.42, "reason": "action/PRIME", "r": 0.0, "id": "scalp-FROG-20261027094633"}
+{"ts": "2026-10-27T09:46:33.456132-07:00", "book": "scalp", "symbol": "OPRT", "side": "buy", "qty": 3, "px": 9.45, "reason": "action/PRIME", "r": 0.0, "id": "scalp-OPRT-20261027094633"}
+{"ts": "2026-10-27T10:16:53.030396-07:00", "book": "scalp", "symbol": "FROG", "side": "sell", "qty": 72, "px": 101.3, "reason": "stop", "r": -1.0, "id": "scalp-FROG-20261027094633"}
+{"ts": "2026-10-27T10:16:53.030396-07:00", "book": "scalp", "symbol": "CRWD", "side": "buy", "qty": 27, "px": 268.13, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CRWD-20261027101653"}
+{"ts": "2026-10-27T11:16:58.238657-07:00", "book": "scalp", "symbol": "OPRT", "side": "sell", "qty": 1, "px": 9.55, "reason": "+2R take half", "r": 10.0, "id": "scalp-OPRT-20261027094633"}
+{"ts": "2026-10-27T11:16:58.238657-07:00", "book": "scalp", "symbol": "OPRT", "side": "sell", "qty": 2, "px": 9.55, "reason": "rotate for PANW", "r": 10.0, "id": "scalp-OPRT-20261027094633"}
+{"ts": "2026-10-27T11:16:58.238657-07:00", "book": "scalp", "symbol": "CNK", "side": "buy", "qty": 2, "px": 39.52, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CNK-20261027111658"}
+{"ts": "2026-10-27T11:43:37.203282-07:00", "book": "scalp", "symbol": "CNK", "side": "sell", "qty": 2, "px": 39.49, "reason": "stop", "r": -1.0, "id": "scalp-CNK-20261027111658"}
+{"ts": "2026-10-27T11:43:37.203282-07:00", "book": "scalp", "symbol": "INDP", "side": "buy", "qty": 24, "px": 3.46, "reason": "action/PRIME", "r": 0.0, "id": "scalp-INDP-20261027114337"}
+{"ts": "2026-10-27T12:17:27.224455-07:00", "book": "scalp", "symbol": "INDP", "side": "sell", "qty": 24, "px": 3.45, "reason": "stop", "r": -1.0, "id": "scalp-INDP-20261027114337"}
+{"ts": "2026-10-27T12:49:39.130404-07:00", "book": "scalp", "symbol": "CRWD", "side": "sell", "qty": 27, "px": 267.73, "reason": "stop", "r": -1.0, "id": "scalp-CRWD-20261027101653"}
+{"ts": "2026-10-28T07:18:34.728662-07:00", "book": "crypto", "symbol": "SPX", "side": "sell", "qty": 4900.0392, "px": 0.3784, "reason": "stop", "r": 0.0, "id": "crypto-SPX-20261027091918"}
+{"ts": "2026-10-28T09:15:30.850925-07:00", "book": "scalp", "symbol": "FAST", "side": "buy", "qty": 142, "px": 51.26, "reason": "action/PRIME", "r": 0.0, "id": "scalp-FAST-20261028091530"}
+{"ts": "2026-10-28T09:15:30.850925-07:00", "book": "scalp", "symbol": "FRSH", "side": "buy", "qty": 2, "px": 15.19, "reason": "action/PRIME", "r": 0.0, "id": "scalp-FRSH-20261028091530"}
+{"ts": "2026-10-28T09:42:32.371234-07:00", "book": "scalp", "symbol": "FAST", "side": "sell", "qty": 142, "px": 51.22, "reason": "stop", "r": -1.0, "id": "scalp-FAST-20261028091530"}
+{"ts": "2026-10-28T09:42:32.371234-07:00", "book": "scalp", "symbol": "FRSH", "side": "sell", "qty": 1, "px": 15.26, "reason": "+2R take half", "r": 3.5, "id": "scalp-FRSH-20261028091530"}
+{"ts": "2026-10-28T09:42:32.371234-07:00", "book": "scalp", "symbol": "OVV", "side": "buy", "qty": 100, "px": 72.26, "reason": "action/PRIME", "r": 0.0, "id": "scalp-OVV-20261028094232"}
+{"ts": "2026-10-28T09:42:32.371234-07:00", "book": "scalp", "symbol": "FRSH", "side": "sell", "qty": 1, "px": 15.26, "reason": "rotate for KYMR", "r": 3.5, "id": "scalp-FRSH-20261028091530"}
+{"ts": "2026-10-28T09:42:32.371234-07:00", "book": "scalp", "symbol": "EGY", "side": "buy", "qty": 12, "px": 6.43, "reason": "action/PRIME", "r": 0.0, "id": "scalp-EGY-20261028094232"}
+{"ts": "2026-10-28T10:15:01.660130-07:00", "book": "scalp", "symbol": "OVV", "side": "sell", "qty": 100, "px": 72.16, "reason": "stop", "r": -1.0, "id": "scalp-OVV-20261028094232"}
+{"ts": "2026-10-28T10:15:01.660130-07:00", "book": "scalp", "symbol": "INFU", "side": "buy", "qty": 506, "px": 14.25, "reason": "action/PRIME", "r": 0.0, "id": "scalp-INFU-20261028101501"}
+{"ts": "2026-10-28T10:44:06.720158-07:00", "book": "scalp", "symbol": "EGY", "side": "sell", "qty": 12, "px": 6.42, "reason": "stop", "r": -1.0, "id": "scalp-EGY-20261028094232"}
+{"ts": "2026-10-28T10:44:06.720158-07:00", "book": "scalp", "symbol": "INFU", "side": "sell", "qty": 253, "px": 14.31, "reason": "+2R take half", "r": 6.0, "id": "scalp-INFU-20261028101501"}
+{"ts": "2026-10-28T10:44:06.720158-07:00", "book": "scalp", "symbol": "NTRA", "side": "buy", "qty": 8, "px": 430.57, "reason": "action/PRIME", "r": 0.0, "id": "scalp-NTRA-20261028104406"}
+{"ts": "2026-10-28T10:44:06.720158-07:00", "book": "scalp", "symbol": "INFU", "side": "sell", "qty": 253, "px": 14.31, "reason": "rotate for CART", "r": 6.0, "id": "scalp-INFU-20261028101501"}
+{"ts": "2026-10-28T10:44:06.720158-07:00", "book": "scalp", "symbol": "CART", "side": "buy", "qty": 65, "px": 59.12, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CART-20261028104406"}
+{"ts": "2026-10-28T11:14:14.695073-07:00", "book": "scalp", "symbol": "NTRA", "side": "sell", "qty": 8, "px": 429.97, "reason": "stop", "r": -1.0, "id": "scalp-NTRA-20261028104406"}
+{"ts": "2026-10-28T11:14:14.695073-07:00", "book": "scalp", "symbol": "SXC", "side": "buy", "qty": 336, "px": 10.35, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SXC-20261028111414"}
+{"ts": "2026-10-28T11:14:14.695073-07:00", "book": "crypto", "symbol": "BEAM", "side": "buy", "qty": 410952.205148, "px": 0.003407, "reason": "action/PRIME", "r": 0.0, "id": "crypto-BEAM-20261028111414"}
+{"ts": "2026-10-28T11:47:22.465162-07:00", "book": "scalp", "symbol": "CART", "side": "sell", "qty": 65, "px": 58.98, "reason": "stop", "r": -1.0, "id": "scalp-CART-20261028104406"}
+{"ts": "2026-10-28T11:47:22.465162-07:00", "book": "scalp", "symbol": "SXC", "side": "sell", "qty": 168, "px": 10.39, "reason": "+2R take half", "r": 4.0, "id": "scalp-SXC-20261028111414"}
+{"ts": "2026-10-28T11:47:22.465162-07:00", "book": "scalp", "symbol": "ZIM", "side": "buy", "qty": 187, "px": 29.74, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ZIM-20261028114722"}
+{"ts": "2026-10-28T12:17:07.430704-07:00", "book": "scalp", "symbol": "ZIM", "side": "sell", "qty": 187, "px": 29.73, "reason": "stop", "r": -1.0, "id": "scalp-ZIM-20261028114722"}
+{"ts": "2026-10-28T19:15:11.123384-07:00", "book": "crypto", "symbol": "PUNDIX", "side": "sell", "qty": 22706.630336, "px": 0.103, "reason": "stop", "r": 0.0, "id": "crypto-PUNDIX-20261027091918"}
+{"ts": "2026-10-29T08:15:51.788431-07:00", "book": "scalp", "symbol": "SXC", "side": "sell", "qty": 168, "px": 10.77, "reason": "stop", "r": 42.0, "id": "scalp-SXC-20261028111414"}
+{"ts": "2026-10-29T08:15:51.788431-07:00", "book": "crypto", "symbol": "MEGA", "side": "buy", "qty": 36714.092777, "px": 0.04824, "reason": "action/PRIME", "r": 0.0, "id": "crypto-MEGA-20261029081551"}
+{"ts": "2026-10-29T09:19:46.862112-07:00", "book": "scalp", "symbol": "SHOP", "side": "buy", "qty": 44, "px": 166.68, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SHOP-20261029091946"}
+{"ts": "2026-10-29T09:19:46.862112-07:00", "book": "scalp", "symbol": "TEN", "side": "buy", "qty": 1, "px": 54.2, "reason": "action/PRIME", "r": 0.0, "id": "scalp-TEN-20261029091946"}
+{"ts": "2026-10-29T09:46:28.829706-07:00", "book": "scalp", "symbol": "SHOP", "side": "sell", "qty": 22, "px": 167.19, "reason": "+2R take half", "r": 4.25, "id": "scalp-SHOP-20261029091946"}
+{"ts": "2026-10-29T09:46:28.829706-07:00", "book": "scalp", "symbol": "TEN", "side": "sell", "qty": 1, "px": 54.13, "reason": "stop", "r": -1.0, "id": "scalp-TEN-20261029091946"}
+{"ts": "2026-10-29T09:46:28.829706-07:00", "book": "scalp", "symbol": "MRVL", "side": "buy", "qty": 16, "px": 221.98, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MRVL-20261029094628"}
+{"ts": "2026-10-29T10:44:36.886951-07:00", "book": "scalp", "symbol": "SHOP", "side": "sell", "qty": 22, "px": 167.07, "reason": "stop", "r": 3.25, "id": "scalp-SHOP-20261029091946"}
+{"ts": "2026-10-29T10:44:36.886951-07:00", "book": "scalp", "symbol": "MRVL", "side": "sell", "qty": 16, "px": 221.16, "reason": "stop", "r": -1.0, "id": "scalp-MRVL-20261029094628"}
+{"ts": "2026-10-29T10:44:36.886951-07:00", "book": "scalp", "symbol": "AAPL", "side": "buy", "qty": 21, "px": 349.7, "reason": "action/PRIME", "r": 0.0, "id": "scalp-AAPL-20261029104436"}
+{"ts": "2026-10-29T10:44:36.886951-07:00", "book": "scalp", "symbol": "SMWB", "side": "buy", "qty": 5, "px": 8.89, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SMWB-20261029104436"}
+{"ts": "2026-10-29T11:12:05.947364-07:00", "book": "scalp", "symbol": "SMWB", "side": "sell", "qty": 2, "px": 8.94, "reason": "+2R take half", "r": 2.5, "id": "scalp-SMWB-20261029104436"}
+{"ts": "2026-10-29T11:47:29.423518-07:00", "book": "scalp", "symbol": "AAPL", "side": "sell", "qty": 10, "px": 350.05, "reason": "+2R take half", "r": 2.33, "id": "scalp-AAPL-20261029104436"}
+{"ts": "2026-10-29T11:47:29.423518-07:00", "book": "crypto", "symbol": "MEGA", "side": "sell", "qty": 36714.092777, "px": 0.046876, "reason": "stop", "r": -1.0, "id": "crypto-MEGA-20261029081551"}
+{"ts": "2026-10-29T12:10:49.078482-07:00", "book": "crypto", "symbol": "BCH", "side": "buy", "qty": 4.432917, "px": 287.6, "reason": "action/PRIME", "r": 0.0, "id": "crypto-BCH-20261029121049"}
+{"ts": "2026-10-29T12:21:09.211673-07:00", "book": "scalp", "symbol": "SMWB", "side": "sell", "qty": 3, "px": 8.92, "reason": "stop", "r": 1.5, "id": "scalp-SMWB-20261029104436"}
