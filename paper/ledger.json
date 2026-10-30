@@ -83,21 +83,17 @@
       "killSwitch": false,
       "rLog": [
         {
-          "ts": "2026-10-29T14:04:33.084378-07:00",
-          "r": -1.0
-        },
-        {
           "ts": "2026-10-29T17:45:27.817797-07:00",
           "r": -1.0
         }
       ],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-10-30 20:50 UTC / 13:50 Whitehorse",
+        "asOf": "2026-10-30 21:05 UTC / 14:05 Whitehorse",
         "gate": "CAUTION"
       },
-      "windowR": -2.0
+      "windowR": -1.0
     }
   },
-  "updatedAt": "2026-10-30T14:03:42.614567-07:00"
+  "updatedAt": "2026-10-30T14:11:16.488399-07:00"
 }
