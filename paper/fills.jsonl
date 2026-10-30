@@ -64,3 +64,7 @@
 {"ts": "2026-10-29T17:45:27.817797-07:00", "book": "crypto", "symbol": "BEAM", "side": "sell", "qty": 410952.205148, "px": 0.003285, "reason": "stop", "r": -1.0, "id": "crypto-BEAM-20261028111414"}
 {"ts": "2026-10-30T09:17:43.860210-07:00", "book": "scalp", "symbol": "SU", "side": "buy", "qty": 92, "px": 109.94, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SU-20261030091743"}
 {"ts": "2026-10-30T09:17:43.860210-07:00", "book": "scalp", "symbol": "CNNE", "side": "buy", "qty": 1, "px": 17.13, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CNNE-20261030091743"}
+{"ts": "2026-10-30T09:42:36.039865-07:00", "book": "scalp", "symbol": "SU", "side": "sell", "qty": 92, "px": 109.74, "reason": "stop", "r": -1.0, "id": "scalp-SU-20261030091743"}
+{"ts": "2026-10-30T09:42:36.039865-07:00", "book": "scalp", "symbol": "CNNE", "side": "sell", "qty": 1, "px": 17.12, "reason": "stop", "r": -1.0, "id": "scalp-CNNE-20261030091743"}
+{"ts": "2026-10-30T09:42:36.039865-07:00", "book": "scalp", "symbol": "OXY", "side": "buy", "qty": 115, "px": 63.74, "reason": "action/PRIME", "r": 0.0, "id": "scalp-OXY-20261030094236"}
+{"ts": "2026-10-30T09:42:36.039865-07:00", "book": "scalp", "symbol": "EQNR", "side": "buy", "qty": 1, "px": 48.66, "reason": "action/PRIME", "r": 0.0, "id": "scalp-EQNR-20261030094236"}
