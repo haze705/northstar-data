@@ -64,11 +64,11 @@
       ],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-10-30 09:38 UTC / 02:38 Whitehorse",
+        "asOf": "2026-10-30 10:00 UTC / 03:00 Whitehorse",
         "gate": "CAUTION"
       },
       "windowR": -3.0
     }
   },
-  "updatedAt": "2026-10-30T02:49:34.173253-07:00"
+  "updatedAt": "2026-10-30T03:11:03.083777-07:00"
 }
