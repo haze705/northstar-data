@@ -68,3 +68,4 @@
 {"ts": "2026-10-30T09:42:36.039865-07:00", "book": "scalp", "symbol": "CNNE", "side": "sell", "qty": 1, "px": 17.12, "reason": "stop", "r": -1.0, "id": "scalp-CNNE-20261030091743"}
 {"ts": "2026-10-30T09:42:36.039865-07:00", "book": "scalp", "symbol": "OXY", "side": "buy", "qty": 115, "px": 63.74, "reason": "action/PRIME", "r": 0.0, "id": "scalp-OXY-20261030094236"}
 {"ts": "2026-10-30T09:42:36.039865-07:00", "book": "scalp", "symbol": "EQNR", "side": "buy", "qty": 1, "px": 48.66, "reason": "action/PRIME", "r": 0.0, "id": "scalp-EQNR-20261030094236"}
+{"ts": "2026-10-30T10:14:40.738741-07:00", "book": "scalp", "symbol": "OXY", "side": "sell", "qty": 57, "px": 63.82, "reason": "+2R take half", "r": 2.67, "id": "scalp-OXY-20261030094236"}
