@@ -62,3 +62,5 @@
 {"ts": "2026-10-29T14:04:33.084378-07:00", "book": "scalp", "symbol": "AAPL", "side": "sell", "qty": 11, "px": 349.9, "reason": "stop", "r": 1.33, "id": "scalp-AAPL-20261029104436"}
 {"ts": "2026-10-29T14:04:33.084378-07:00", "book": "crypto", "symbol": "BCH", "side": "sell", "qty": 4.432917, "px": 276.45598, "reason": "stop", "r": -1.0, "id": "crypto-BCH-20261029121049"}
 {"ts": "2026-10-29T17:45:27.817797-07:00", "book": "crypto", "symbol": "BEAM", "side": "sell", "qty": 410952.205148, "px": 0.003285, "reason": "stop", "r": -1.0, "id": "crypto-BEAM-20261028111414"}
+{"ts": "2026-10-30T09:17:43.860210-07:00", "book": "scalp", "symbol": "SU", "side": "buy", "qty": 92, "px": 109.94, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SU-20261030091743"}
+{"ts": "2026-10-30T09:17:43.860210-07:00", "book": "scalp", "symbol": "CNNE", "side": "buy", "qty": 1, "px": 17.13, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CNNE-20261030091743"}

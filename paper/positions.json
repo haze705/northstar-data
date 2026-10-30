@@ -1,5 +1,44 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-10-30T09:14:27.857185-07:00"
+  "positions": [
+    {
+      "id": "scalp-SU-20261030091743",
+      "book": "scalp",
+      "symbol": "SU",
+      "venue": "CAD",
+      "fx": 1.0,
+      "openedAt": "2026-10-30T09:17:43.860210-07:00",
+      "entry": 109.94,
+      "qty": 92,
+      "qty0": 92,
+      "stop": 109.74,
+      "initStop": 109.74,
+      "mark": 109.94,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 110.56
+    },
+    {
+      "id": "scalp-CNNE-20261030091743",
+      "book": "scalp",
+      "symbol": "CNNE",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-10-30T09:17:43.860210-07:00",
+      "entry": 17.13,
+      "qty": 1,
+      "qty0": 1,
+      "stop": 17.12,
+      "initStop": 17.12,
+      "mark": 17.13,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 98.8,
+      "why": "action/PRIME",
+      "target": 17.27
+    }
+  ],
+  "updatedAt": "2026-10-30T09:17:43.860210-07:00"
 }
