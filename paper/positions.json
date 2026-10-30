@@ -1,25 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "crypto-BEAM-20261028111414",
-      "book": "crypto",
-      "symbol": "BEAM",
-      "venue": "USDC",
-      "fx": 1.0,
-      "openedAt": "2026-10-28T11:14:14.695073-07:00",
-      "entry": 0.003407,
-      "qty": 410952.205148,
-      "qty0": 410952.205148,
-      "stop": 0.003285,
-      "initStop": 0.003285,
-      "mark": 0.00331,
-      "rNow": -0.8,
-      "halfTaken": false,
-      "score": 11,
-      "why": "action/PRIME",
-      "target": 0.003596
-    }
-  ],
-  "updatedAt": "2026-10-29T17:11:02.747217-07:00"
+  "positions": [],
+  "updatedAt": "2026-10-29T17:45:27.817797-07:00"
 }
