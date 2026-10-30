@@ -13,13 +13,13 @@
       "qty0": 410952.205148,
       "stop": 0.003285,
       "initStop": 0.003285,
-      "mark": 0.003373,
-      "rNow": -0.28,
+      "mark": 0.00331,
+      "rNow": -0.8,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
       "target": 0.003596
     }
   ],
-  "updatedAt": "2026-10-29T16:48:17.675132-07:00"
+  "updatedAt": "2026-10-29T17:11:02.747217-07:00"
 }
