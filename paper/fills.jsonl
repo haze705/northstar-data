@@ -75,3 +75,5 @@
 {"ts": "2026-10-30T11:14:33.584329-07:00", "book": "scalp", "symbol": "SJM", "side": "buy", "qty": 1, "px": 130.51, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SJM-20261030111433"}
 {"ts": "2026-10-30T11:40:09.401148-07:00", "book": "scalp", "symbol": "MANH", "side": "sell", "qty": 29, "px": 247.87, "reason": "stop", "r": -1.0, "id": "scalp-MANH-20261030111433"}
 {"ts": "2026-10-30T11:40:09.401148-07:00", "book": "scalp", "symbol": "MO", "side": "buy", "qty": 92, "px": 78.41, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MO-20261030114009"}
+{"ts": "2026-10-30T12:12:15.033625-07:00", "book": "scalp", "symbol": "SJM", "side": "sell", "qty": 1, "px": 130.66, "reason": "stop", "r": 1.88, "id": "scalp-SJM-20261030111433"}
+{"ts": "2026-10-30T12:12:15.033625-07:00", "book": "scalp", "symbol": "MO", "side": "sell", "qty": 92, "px": 78.34, "reason": "stop", "r": -1.0, "id": "scalp-MO-20261030114009"}

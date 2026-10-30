@@ -1,44 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "scalp-SJM-20261030111433",
-      "book": "scalp",
-      "symbol": "SJM",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-10-30T11:14:33.584329-07:00",
-      "entry": 130.51,
-      "qty": 1,
-      "qty0": 1,
-      "stop": 130.66,
-      "initStop": 130.43,
-      "mark": 130.74,
-      "rNow": 2.88,
-      "halfTaken": true,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 132.15
-    },
-    {
-      "id": "scalp-MO-20261030114009",
-      "book": "scalp",
-      "symbol": "MO",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-10-30T11:40:09.401148-07:00",
-      "entry": 78.41,
-      "qty": 92,
-      "qty0": 92,
-      "stop": 78.34,
-      "initStop": 78.34,
-      "mark": 78.41,
-      "rNow": 0.0,
-      "halfTaken": false,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 79.81
-    }
-  ],
-  "updatedAt": "2026-10-30T11:49:39.911512-07:00"
+  "positions": [],
+  "updatedAt": "2026-10-30T12:12:15.033625-07:00"
 }
