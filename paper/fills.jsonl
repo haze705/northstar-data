@@ -86,3 +86,6 @@
 {"ts": "2026-11-02T10:18:16.076239-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "sell", "qty": 644.018323, "px": 3.063839, "reason": "stop", "r": -1.0, "id": "crypto-LIGHTER-20261102021521"}
 {"ts": "2026-11-02T10:43:30.082572-07:00", "book": "scalp", "symbol": "CRWD", "side": "buy", "qty": 29, "px": 248.66, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CRWD-20261102104330"}
 {"ts": "2026-11-02T10:43:30.082572-07:00", "book": "scalp", "symbol": "MRK", "side": "buy", "qty": 1, "px": 148.7, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MRK-20261102104330"}
+{"ts": "2026-11-02T11:16:18.125137-07:00", "book": "scalp", "symbol": "CRWD", "side": "sell", "qty": 14, "px": 249.77, "reason": "+2R take half", "r": 6.94, "id": "scalp-CRWD-20261102104330"}
+{"ts": "2026-11-02T11:16:18.125137-07:00", "book": "scalp", "symbol": "MRK", "side": "sell", "qty": 1, "px": 148.64, "reason": "stop", "r": -1.0, "id": "scalp-MRK-20261102104330"}
+{"ts": "2026-11-02T11:16:18.125137-07:00", "book": "scalp", "symbol": "CB", "side": "buy", "qty": 10, "px": 366.92, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CB-20261102111618"}
