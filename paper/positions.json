@@ -13,32 +13,13 @@
       "qty0": 260.497215,
       "stop": 7.034503,
       "initStop": 7.034503,
-      "mark": 7.179,
-      "rNow": -0.22,
+      "mark": 7.2235,
+      "rNow": 0.02,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
       "target": 7.5138
-    },
-    {
-      "id": "crypto-LIGHTER-20261102021521",
-      "book": "crypto",
-      "symbol": "LIGHTER",
-      "venue": "USDC",
-      "fx": 1.0,
-      "openedAt": "2026-11-02T02:15:21.232097-07:00",
-      "entry": 3.138,
-      "qty": 644.018323,
-      "qty0": 644.018323,
-      "stop": 3.063839,
-      "initStop": 3.063839,
-      "mark": 3.089,
-      "rNow": -0.66,
-      "halfTaken": false,
-      "score": 11,
-      "why": "action/PRIME",
-      "target": 3.355
     }
   ],
-  "updatedAt": "2026-11-02T09:48:23.952525-07:00"
+  "updatedAt": "2026-11-02T10:18:16.076239-07:00"
 }

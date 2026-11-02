@@ -83,3 +83,4 @@
 {"ts": "2026-11-01T23:14:05.190355-07:00", "book": "crypto", "symbol": "AGLD", "side": "buy", "qty": 15797.220731613348, "px": 0.1849, "reason": "action/PRIME", "r": 0.0, "id": "crypto-AGLD-20261101231405"}
 {"ts": "2026-11-02T01:49:38.816881-07:00", "book": "crypto", "symbol": "AGLD", "side": "sell", "qty": 15797.220731613348, "px": 0.183532, "reason": "stop", "r": -1.0, "id": "crypto-AGLD-20261101231405"}
 {"ts": "2026-11-02T02:15:21.232097-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "buy", "qty": 644.018323, "px": 3.138, "reason": "action/PRIME", "r": 0.0, "id": "crypto-LIGHTER-20261102021521"}
+{"ts": "2026-11-02T10:18:16.076239-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "sell", "qty": 644.018323, "px": 3.063839, "reason": "stop", "r": -1.0, "id": "crypto-LIGHTER-20261102021521"}
