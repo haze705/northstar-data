@@ -26,9 +26,9 @@
       "currency": "CAD",
       "capital": 10000.0,
       "cash": 8.05,
-      "equity": 10192.85,
+      "equity": 10204.49,
       "realized": 178.87,
-      "unrealized": 13.97,
+      "unrealized": 25.62,
       "status": "active",
       "killSwitch": false,
       "rLog": [
@@ -55,8 +55,8 @@
       ],
       "source": {
         "path": "/workspace/northstar-data/data/scalp-data.js",
-        "asOf": "2026-11-02 14:30 ET / 12:30 Whitehorse",
-        "gate": "OPEN"
+        "asOf": "2026-11-02 15:35 ET / 13:35 Whitehorse",
+        "gate": "FLATTEN"
       },
       "windowR": 11.74
     },
@@ -89,11 +89,11 @@
       ],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-11-02 20:39 UTC / 13:39 Whitehorse",
+        "asOf": "2026-11-02 20:44 UTC / 13:44 Whitehorse",
         "gate": "CAUTION"
       },
       "windowR": -4.0
     }
   },
-  "updatedAt": "2026-11-02T13:43:58.163780-07:00"
+  "updatedAt": "2026-11-02T14:02:17.169314-07:00"
 }
