@@ -77,3 +77,5 @@
 {"ts": "2026-10-30T11:40:09.401148-07:00", "book": "scalp", "symbol": "MO", "side": "buy", "qty": 92, "px": 78.41, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MO-20261030114009"}
 {"ts": "2026-10-30T12:12:15.033625-07:00", "book": "scalp", "symbol": "SJM", "side": "sell", "qty": 1, "px": 130.66, "reason": "stop", "r": 1.88, "id": "scalp-SJM-20261030111433"}
 {"ts": "2026-10-30T12:12:15.033625-07:00", "book": "scalp", "symbol": "MO", "side": "sell", "qty": 92, "px": 78.34, "reason": "stop", "r": -1.0, "id": "scalp-MO-20261030114009"}
+{"ts": "2026-11-01T17:17:42.349717-07:00", "book": "crypto", "symbol": "UNI", "side": "buy", "qty": 260.497215, "px": 7.2207, "reason": "action/PRIME", "r": 0.0, "id": "crypto-UNI-20261101171742"}
+{"ts": "2026-11-01T17:17:42.349717-07:00", "book": "crypto", "symbol": "ZRO", "side": "buy", "qty": 1236.143534, "px": 1.8136, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ZRO-20261101171742"}
