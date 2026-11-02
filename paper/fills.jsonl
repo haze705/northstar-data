@@ -81,3 +81,4 @@
 {"ts": "2026-11-01T17:17:42.349717-07:00", "book": "crypto", "symbol": "ZRO", "side": "buy", "qty": 1236.143534, "px": 1.8136, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ZRO-20261101171742"}
 {"ts": "2026-11-01T23:14:05.190355-07:00", "book": "crypto", "symbol": "ZRO", "side": "sell", "qty": 1236.143534, "px": 1.774362, "reason": "stop", "r": -1.0, "id": "crypto-ZRO-20261101171742"}
 {"ts": "2026-11-01T23:14:05.190355-07:00", "book": "crypto", "symbol": "AGLD", "side": "buy", "qty": 15797.220731613348, "px": 0.1849, "reason": "action/PRIME", "r": 0.0, "id": "crypto-AGLD-20261101231405"}
+{"ts": "2026-11-02T01:49:38.816881-07:00", "book": "crypto", "symbol": "AGLD", "side": "sell", "qty": 15797.220731613348, "px": 0.183532, "reason": "stop", "r": -1.0, "id": "crypto-AGLD-20261101231405"}

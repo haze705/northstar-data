@@ -13,32 +13,13 @@
       "qty0": 260.497215,
       "stop": 7.034503,
       "initStop": 7.034503,
-      "mark": 7.2041,
-      "rNow": -0.09,
+      "mark": 7.1894,
+      "rNow": -0.17,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
       "target": 7.5138
-    },
-    {
-      "id": "crypto-AGLD-20261101231405",
-      "book": "crypto",
-      "symbol": "AGLD",
-      "venue": "USDC",
-      "fx": 1.0,
-      "openedAt": "2026-11-01T23:14:05.190355-07:00",
-      "entry": 0.1849,
-      "qty": 15797.220731613348,
-      "qty0": 15797.220731613348,
-      "stop": 0.183532,
-      "initStop": 0.183532,
-      "mark": 0.1849,
-      "rNow": 0.0,
-      "halfTaken": false,
-      "score": 11,
-      "why": "action/PRIME",
-      "target": 0.1971
     }
   ],
-  "updatedAt": "2026-11-02T01:15:50.832451-07:00"
+  "updatedAt": "2026-11-02T01:49:38.816881-07:00"
 }
