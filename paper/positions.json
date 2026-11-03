@@ -1,5 +1,44 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-03T09:46:57.955377-07:00"
+  "positions": [
+    {
+      "id": "crypto-STX-20261103101418",
+      "book": "crypto",
+      "symbol": "STX",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-03T10:14:18.915815-07:00",
+      "entry": 0.326,
+      "qty": 5127.542419,
+      "qty0": 5127.542419,
+      "stop": 0.316865,
+      "initStop": 0.316865,
+      "mark": 0.326,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.3421
+    },
+    {
+      "id": "crypto-ARPA-20261103101418",
+      "book": "crypto",
+      "symbol": "ARPA",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-03T10:14:18.915815-07:00",
+      "entry": 0.009918,
+      "qty": 158243.581081,
+      "qty0": 158243.581081,
+      "stop": 0.009622,
+      "initStop": 0.009622,
+      "mark": 0.009918,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.010453
+    }
+  ],
+  "updatedAt": "2026-11-03T10:14:18.915815-07:00"
 }
