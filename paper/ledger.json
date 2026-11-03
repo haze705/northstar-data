@@ -26,7 +26,7 @@
       "currency": "CAD",
       "capital": 10000.0,
       "cash": 29.14,
-      "equity": 10150.94,
+      "equity": 10150.95,
       "realized": 150.95,
       "unrealized": 0.0,
       "status": "active",
@@ -95,5 +95,5 @@
       "windowR": -1.0
     }
   },
-  "updatedAt": "2026-11-03T12:19:38.739569-07:00"
+  "updatedAt": "2026-11-03T12:19:40.420631-07:00"
 }
