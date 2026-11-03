@@ -109,3 +109,7 @@
 {"ts": "2026-11-03T11:15:35.072703-07:00", "book": "scalp", "symbol": "DOCU", "side": "buy", "qty": 2, "px": 82.16, "reason": "action/PRIME", "r": 0.0, "id": "scalp-DOCU-20261103111535"}
 {"ts": "2026-11-03T11:41:43.458432-07:00", "book": "scalp", "symbol": "PSX", "side": "sell", "qty": 26, "px": 276.93, "reason": "stop", "r": -1.0, "id": "scalp-PSX-20261103111535"}
 {"ts": "2026-11-03T11:41:43.458432-07:00", "book": "scalp", "symbol": "LNG", "side": "buy", "qty": 23, "px": 314.11, "reason": "action/PRIME", "r": 0.0, "id": "scalp-LNG-20261103114143"}
+{"ts": "2026-11-03T12:19:38.739569-07:00", "book": "scalp", "symbol": "DOCU", "side": "sell", "qty": 2, "px": 82.16, "reason": "stop", "r": 0.0, "id": "scalp-DOCU-20261103111535"}
+{"ts": "2026-11-03T12:19:38.739569-07:00", "book": "scalp", "symbol": "LNG", "side": "sell", "qty": 23, "px": 313.52, "reason": "stop", "r": -1.0, "id": "scalp-LNG-20261103114143"}
+{"ts": "2026-11-03T12:19:38.739569-07:00", "book": "scalp", "symbol": "A", "side": "buy", "qty": 41, "px": 177.54, "reason": "action/PRIME", "r": 0.0, "id": "scalp-A-20261103121938"}
+{"ts": "2026-11-03T12:19:38.739569-07:00", "book": "scalp", "symbol": "SDGR", "side": "buy", "qty": 4, "px": 27.26, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SDGR-20261103121938"}
