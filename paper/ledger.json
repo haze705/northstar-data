@@ -43,7 +43,7 @@
       ],
       "source": {
         "path": "/workspace/northstar-data/data/scalp-data.js",
-        "asOf": "2026-11-03 10:30 ET / 08:30 Whitehorse",
+        "asOf": "2026-11-03 11:10 ET / 09:10 Whitehorse",
         "gate": "OPEN"
       },
       "windowR": 12.68
@@ -75,5 +75,5 @@
       "windowR": -2.0
     }
   },
-  "updatedAt": "2026-11-03T09:14:39.044172-07:00"
+  "updatedAt": "2026-11-03T09:15:56.182627-07:00"
 }
