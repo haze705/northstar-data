@@ -31,34 +31,13 @@
       "unrealized": 25.62,
       "status": "active",
       "killSwitch": false,
-      "rLog": [
-        {
-          "ts": "2026-11-02T11:16:18.125137-07:00",
-          "r": 3.3491379310345955
-        },
-        {
-          "ts": "2026-11-02T11:16:18.125137-07:00",
-          "r": -1.0
-        },
-        {
-          "ts": "2026-11-02T11:44:51.579417-07:00",
-          "r": 3.0711206896552934
-        },
-        {
-          "ts": "2026-11-02T11:44:51.579417-07:00",
-          "r": 7.318181818180714
-        },
-        {
-          "ts": "2026-11-02T12:41:25.322368-07:00",
-          "r": -1.0
-        }
-      ],
+      "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/scalp-data.js",
         "asOf": "2026-11-02 15:35 ET / 13:35 Whitehorse",
         "gate": "FLATTEN"
       },
-      "windowR": 11.74
+      "windowR": 0
     },
     "crypto": {
       "currency": "USDC",
@@ -85,11 +64,11 @@
       ],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-11-03 06:33 UTC / 23:33 Whitehorse",
+        "asOf": "2026-11-03 07:07 UTC / 00:07 Whitehorse",
         "gate": "CAUTION"
       },
       "windowR": -3.0
     }
   },
-  "updatedAt": "2026-11-02T23:42:58.286877-07:00"
+  "updatedAt": "2026-11-03T00:19:59.318853-07:00"
 }
