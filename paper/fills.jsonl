@@ -95,3 +95,5 @@
 {"ts": "2026-11-02T12:41:25.322368-07:00", "book": "scalp", "symbol": "LLY", "side": "sell", "qty": 3, "px": 1409.33, "reason": "stop", "r": -1.0, "id": "scalp-LLY-20261102114451"}
 {"ts": "2026-11-02T12:41:25.322368-07:00", "book": "scalp", "symbol": "TRV", "side": "buy", "qty": 14, "px": 399.24, "reason": "action/PRIME", "r": 0.0, "id": "scalp-TRV-20261102124125"}
 {"ts": "2026-11-02T13:19:27.692573-07:00", "book": "crypto", "symbol": "UNI", "side": "sell", "qty": 260.497215, "px": 7.034503, "reason": "stop", "r": -1.0, "id": "crypto-UNI-20261101171742"}
+{"ts": "2026-11-03T06:14:21.295762-07:00", "book": "scalp", "symbol": "CB", "side": "sell", "qty": 5, "px": 369.71, "reason": "stop", "r": 25.36, "id": "scalp-CB-20261102111618"}
+{"ts": "2026-11-03T06:14:21.295762-07:00", "book": "scalp", "symbol": "TRV", "side": "sell", "qty": 14, "px": 399.24, "reason": "stop", "r": 0.0, "id": "scalp-TRV-20261102124125"}

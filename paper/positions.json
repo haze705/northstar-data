@@ -1,44 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "scalp-CB-20261102111618",
-      "book": "scalp",
-      "symbol": "CB",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-02T11:16:18.125137-07:00",
-      "entry": 366.92,
-      "qty": 5,
-      "qty0": 10,
-      "stop": 369.71,
-      "initStop": 366.81,
-      "mark": 369.82,
-      "rNow": 26.36,
-      "halfTaken": true,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 367.54
-    },
-    {
-      "id": "scalp-TRV-20261102124125",
-      "book": "scalp",
-      "symbol": "TRV",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-02T12:41:25.322368-07:00",
-      "entry": 399.24,
-      "qty": 14,
-      "qty0": 14,
-      "stop": 399.24,
-      "initStop": 399.09,
-      "mark": 399.54,
-      "rNow": 2.0,
-      "halfTaken": false,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 399.99
-    }
-  ],
-  "updatedAt": "2026-11-03T05:46:43.899156-07:00"
+  "positions": [],
+  "updatedAt": "2026-11-03T06:14:21.295762-07:00"
 }
