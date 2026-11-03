@@ -101,3 +101,5 @@
 {"ts": "2026-11-03T10:14:18.915815-07:00", "book": "crypto", "symbol": "ARPA", "side": "buy", "qty": 158243.581081, "px": 0.009918, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ARPA-20261103101418"}
 {"ts": "2026-11-03T10:40:15.549587-07:00", "book": "scalp", "symbol": "CNQ", "side": "buy", "qty": 135, "px": 75.31, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CNQ-20261103104015"}
 {"ts": "2026-11-03T10:40:15.549587-07:00", "book": "scalp", "symbol": "STGW", "side": "buy", "qty": 2, "px": 10.78, "reason": "action/PRIME", "r": 0.0, "id": "scalp-STGW-20261103104015"}
+{"ts": "2026-11-03T10:43:15.917128-07:00", "book": "scalp", "symbol": "CNQ", "side": "sell", "qty": 135, "px": 75.27, "reason": "stop", "r": -1.0, "id": "scalp-CNQ-20261103104015"}
+{"ts": "2026-11-03T10:43:15.917128-07:00", "book": "scalp", "symbol": "MRNA", "side": "buy", "qty": 31, "px": 231.99, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MRNA-20261103104315"}

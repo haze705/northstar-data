@@ -40,25 +40,6 @@
       "target": 0.010453
     },
     {
-      "id": "scalp-CNQ-20261103104015",
-      "book": "scalp",
-      "symbol": "CNQ",
-      "venue": "CAD",
-      "fx": 1.0,
-      "openedAt": "2026-11-03T10:40:15.549587-07:00",
-      "entry": 75.31,
-      "qty": 135,
-      "qty0": 135,
-      "stop": 75.27,
-      "initStop": 75.27,
-      "mark": 75.31,
-      "rNow": 0.0,
-      "halfTaken": false,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 75.59
-    },
-    {
       "id": "scalp-STGW-20261103104015",
       "book": "scalp",
       "symbol": "STGW",
@@ -76,7 +57,26 @@
       "score": 100,
       "why": "action/PRIME",
       "target": 10.88
+    },
+    {
+      "id": "scalp-MRNA-20261103104315",
+      "book": "scalp",
+      "symbol": "MRNA",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-03T10:43:15.917128-07:00",
+      "entry": 231.99,
+      "qty": 31,
+      "qty0": 31,
+      "stop": 231.75,
+      "initStop": 231.75,
+      "mark": 231.99,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 235.46
     }
   ],
-  "updatedAt": "2026-11-03T10:40:15.549587-07:00"
+  "updatedAt": "2026-11-03T10:43:15.917128-07:00"
 }

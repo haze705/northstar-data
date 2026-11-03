@@ -25,9 +25,9 @@
     "scalp": {
       "currency": "CAD",
       "capital": 10000.0,
-      "cash": 1.6,
-      "equity": 10197.99,
-      "realized": 197.98,
+      "cash": 310.43,
+      "equity": 10192.59,
+      "realized": 192.58,
       "unrealized": 0.0,
       "status": "active",
       "killSwitch": false,
@@ -39,6 +39,10 @@
         {
           "ts": "2026-11-03T06:14:21.295762-07:00",
           "r": 0.0
+        },
+        {
+          "ts": "2026-11-03T10:43:15.917128-07:00",
+          "r": -1.0
         }
       ],
       "source": {
@@ -46,7 +50,7 @@
         "asOf": "2026-11-03 12:30 ET / 10:30 Whitehorse",
         "gate": "OPEN"
       },
-      "windowR": 12.68
+      "windowR": 11.68
     },
     "crypto": {
       "currency": "USDC",
@@ -71,5 +75,5 @@
       "windowR": -1.0
     }
   },
-  "updatedAt": "2026-11-03T10:40:15.549587-07:00"
+  "updatedAt": "2026-11-03T10:43:15.917128-07:00"
 }
