@@ -122,3 +122,4 @@
 {"ts": "2026-11-03T23:50:40.381070-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 12645.360736824152, "px": 0.12184, "reason": "+2R take half", "r": 3.2, "id": "crypto-KITE-20261103224459"}
 {"ts": "2026-11-04T00:18:36.452803-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 12645.360736824152, "px": 0.1204, "reason": "stop", "r": 2.19, "id": "crypto-KITE-20261103224459"}
 {"ts": "2026-11-04T00:18:36.452803-07:00", "book": "crypto", "symbol": "GRVT", "side": "buy", "qty": 7294.169029, "px": 0.2298, "reason": "action/PRIME", "r": 0.0, "id": "crypto-GRVT-20261104001836"}
+{"ts": "2026-11-04T03:47:51.473269-07:00", "book": "crypto", "symbol": "STX", "side": "sell", "qty": 2563.7712095, "px": 0.346, "reason": "+2R take half", "r": 2.19, "id": "crypto-STX-20261103101418"}
