@@ -132,3 +132,5 @@
 {"ts": "2026-11-04T10:46:35.153907-07:00", "book": "scalp", "symbol": "IFF", "side": "sell", "qty": 1, "px": 88.67, "reason": "stop", "r": -1.0, "id": "scalp-IFF-20261104101707"}
 {"ts": "2026-11-04T10:46:35.153907-07:00", "book": "scalp", "symbol": "BRK.B", "side": "buy", "qty": 6, "px": 573.47, "reason": "action/PRIME", "r": 0.0, "id": "scalp-BRK.B-20261104104635"}
 {"ts": "2026-11-04T12:15:43.661227-07:00", "book": "scalp", "symbol": "BRK.B", "side": "sell", "qty": 3, "px": 575.04, "reason": "+2R take half", "r": 2.12, "id": "scalp-BRK.B-20261104104635"}
+{"ts": "2026-11-04T13:15:10.949162-07:00", "book": "crypto", "symbol": "GRVT", "side": "sell", "qty": 7294.169029, "px": 0.22319, "reason": "stop", "r": -1.0, "id": "crypto-GRVT-20261104001836"}
+{"ts": "2026-11-04T13:15:10.949162-07:00", "book": "crypto", "symbol": "EDGEX", "side": "buy", "qty": 5464.479311, "px": 0.3437, "reason": "action/PRIME", "r": 0.0, "id": "crypto-EDGEX-20261104131510"}

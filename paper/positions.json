@@ -2,25 +2,6 @@
   "schema": 1,
   "positions": [
     {
-      "id": "crypto-GRVT-20261104001836",
-      "book": "crypto",
-      "symbol": "GRVT",
-      "venue": "USDC",
-      "fx": 1.0,
-      "openedAt": "2026-11-04T00:18:36.452803-07:00",
-      "entry": 0.2298,
-      "qty": 7294.169029,
-      "qty0": 7294.169029,
-      "stop": 0.22319,
-      "initStop": 0.22319,
-      "mark": 0.2245,
-      "rNow": -0.8,
-      "halfTaken": false,
-      "score": 11,
-      "why": "action/PRIME",
-      "target": 0.2493
-    },
-    {
       "id": "crypto-KITE-20261104091658",
       "book": "crypto",
       "symbol": "KITE",
@@ -32,8 +13,8 @@
       "qty0": 15574.739444,
       "stop": 0.116546,
       "initStop": 0.116546,
-      "mark": 0.11858,
-      "rNow": -0.34,
+      "mark": 0.1187,
+      "rNow": -0.31,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
@@ -76,7 +57,26 @@
       "score": 100,
       "why": "action/PRIME",
       "target": 574.58
+    },
+    {
+      "id": "crypto-EDGEX-20261104131510",
+      "book": "crypto",
+      "symbol": "EDGEX",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-04T13:15:10.949162-07:00",
+      "entry": 0.3437,
+      "qty": 5464.479311,
+      "qty0": 5464.479311,
+      "stop": 0.334955,
+      "initStop": 0.334955,
+      "mark": 0.3437,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.373
     }
   ],
-  "updatedAt": "2026-11-04T12:43:29.822597-07:00"
+  "updatedAt": "2026-11-04T13:15:10.949162-07:00"
 }
