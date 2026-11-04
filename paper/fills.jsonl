@@ -128,3 +128,6 @@
 {"ts": "2026-11-04T09:16:58.793058-07:00", "book": "crypto", "symbol": "KITE", "side": "buy", "qty": 15574.739444, "px": 0.11965, "reason": "action/PRIME", "r": 0.0, "id": "crypto-KITE-20261104091658"}
 {"ts": "2026-11-04T10:17:07.500407-07:00", "book": "scalp", "symbol": "ELV", "side": "buy", "qty": 17, "px": 428.19, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ELV-20261104101707"}
 {"ts": "2026-11-04T10:17:07.500407-07:00", "book": "scalp", "symbol": "IFF", "side": "buy", "qty": 1, "px": 88.86, "reason": "action/PRIME", "r": 0.0, "id": "scalp-IFF-20261104101707"}
+{"ts": "2026-11-04T10:46:35.153907-07:00", "book": "scalp", "symbol": "ELV", "side": "sell", "qty": 8, "px": 430.95, "reason": "+2R take half", "r": 3.33, "id": "scalp-ELV-20261104101707"}
+{"ts": "2026-11-04T10:46:35.153907-07:00", "book": "scalp", "symbol": "IFF", "side": "sell", "qty": 1, "px": 88.67, "reason": "stop", "r": -1.0, "id": "scalp-IFF-20261104101707"}
+{"ts": "2026-11-04T10:46:35.153907-07:00", "book": "scalp", "symbol": "BRK.B", "side": "buy", "qty": 6, "px": 573.47, "reason": "action/PRIME", "r": 0.0, "id": "scalp-BRK.B-20261104104635"}
