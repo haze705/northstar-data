@@ -13,8 +13,8 @@
       "qty0": 5127.542419,
       "stop": 0.3395,
       "initStop": 0.316865,
-      "mark": 0.3426,
-      "rNow": 1.82,
+      "mark": 0.3458,
+      "rNow": 2.17,
       "halfTaken": true,
       "score": 11,
       "why": "action/PRIME",
@@ -32,13 +32,13 @@
       "qty0": 7294.169029,
       "stop": 0.22319,
       "initStop": 0.22319,
-      "mark": 0.2296,
-      "rNow": -0.03,
+      "mark": 0.229,
+      "rNow": -0.12,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
       "target": 0.2493
     }
   ],
-  "updatedAt": "2026-11-04T07:19:21.711875-07:00"
+  "updatedAt": "2026-11-04T07:48:34.327056-07:00"
 }
