@@ -11,10 +11,10 @@
       "entry": 0.326,
       "qty": 5127.542419,
       "qty0": 5127.542419,
-      "stop": 0.316865,
+      "stop": 0.326,
       "initStop": 0.316865,
-      "mark": 0.3336,
-      "rNow": 0.83,
+      "mark": 0.3429,
+      "rNow": 1.85,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
@@ -40,24 +40,24 @@
       "target": 52.71
     },
     {
-      "id": "crypto-KITE-20261103224459",
+      "id": "crypto-GRVT-20261104001836",
       "book": "crypto",
-      "symbol": "KITE",
+      "symbol": "GRVT",
       "venue": "USDC",
       "fx": 1.0,
-      "openedAt": "2026-11-03T22:44:59.913264-07:00",
-      "entry": 0.11726,
-      "qty": 12645.360736824152,
-      "qty0": 25290.721473648304,
-      "stop": 0.1204,
-      "initStop": 0.115828,
-      "mark": 0.12184,
-      "rNow": 3.2,
-      "halfTaken": true,
+      "openedAt": "2026-11-04T00:18:36.452803-07:00",
+      "entry": 0.2298,
+      "qty": 7294.169029,
+      "qty0": 7294.169029,
+      "stop": 0.22319,
+      "initStop": 0.22319,
+      "mark": 0.2298,
+      "rNow": 0.0,
+      "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
-      "target": 0.12522
+      "target": 0.2493
     }
   ],
-  "updatedAt": "2026-11-03T23:50:40.381070-07:00"
+  "updatedAt": "2026-11-04T00:18:36.452803-07:00"
 }

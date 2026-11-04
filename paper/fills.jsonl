@@ -120,3 +120,5 @@
 {"ts": "2026-11-03T20:11:58.094565-07:00", "book": "crypto", "symbol": "ARPA", "side": "sell", "qty": 158243.581081, "px": 0.009622, "reason": "stop", "r": -1.0, "id": "crypto-ARPA-20261103101418"}
 {"ts": "2026-11-03T22:44:59.913264-07:00", "book": "crypto", "symbol": "KITE", "side": "buy", "qty": 25290.721473648304, "px": 0.11726, "reason": "action/PRIME", "r": 0.0, "id": "crypto-KITE-20261103224459"}
 {"ts": "2026-11-03T23:50:40.381070-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 12645.360736824152, "px": 0.12184, "reason": "+2R take half", "r": 3.2, "id": "crypto-KITE-20261103224459"}
+{"ts": "2026-11-04T00:18:36.452803-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 12645.360736824152, "px": 0.1204, "reason": "stop", "r": 2.19, "id": "crypto-KITE-20261103224459"}
+{"ts": "2026-11-04T00:18:36.452803-07:00", "book": "crypto", "symbol": "GRVT", "side": "buy", "qty": 7294.169029, "px": 0.2298, "reason": "action/PRIME", "r": 0.0, "id": "crypto-GRVT-20261104001836"}
