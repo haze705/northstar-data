@@ -118,3 +118,4 @@
 {"ts": "2026-11-03T13:48:10.323364-07:00", "book": "scalp", "symbol": "A", "side": "sell", "qty": 41, "px": 177.33, "reason": "stop", "r": -1.0, "id": "scalp-A-20261103121938"}
 {"ts": "2026-11-03T13:48:10.323364-07:00", "book": "scalp", "symbol": "FRO", "side": "sell", "qty": 1, "px": 52.59, "reason": "+2R take half", "r": 5.0, "id": "scalp-FRO-20261103124343"}
 {"ts": "2026-11-03T20:11:58.094565-07:00", "book": "crypto", "symbol": "ARPA", "side": "sell", "qty": 158243.581081, "px": 0.009622, "reason": "stop", "r": -1.0, "id": "crypto-ARPA-20261103101418"}
+{"ts": "2026-11-03T22:44:59.913264-07:00", "book": "crypto", "symbol": "KITE", "side": "buy", "qty": 25290.721473648304, "px": 0.11726, "reason": "action/PRIME", "r": 0.0, "id": "crypto-KITE-20261103224459"}

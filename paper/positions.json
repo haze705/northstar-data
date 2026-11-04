@@ -13,8 +13,8 @@
       "qty0": 5127.542419,
       "stop": 0.316865,
       "initStop": 0.316865,
-      "mark": 0.3254,
-      "rNow": -0.07,
+      "mark": 0.328,
+      "rNow": 0.22,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
@@ -38,7 +38,26 @@
       "score": 100.0,
       "why": "action/PRIME",
       "target": 52.71
+    },
+    {
+      "id": "crypto-KITE-20261103224459",
+      "book": "crypto",
+      "symbol": "KITE",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-03T22:44:59.913264-07:00",
+      "entry": 0.11726,
+      "qty": 25290.721473648304,
+      "qty0": 25290.721473648304,
+      "stop": 0.115828,
+      "initStop": 0.115828,
+      "mark": 0.11726,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.12522
     }
   ],
-  "updatedAt": "2026-11-03T22:19:58.648502-07:00"
+  "updatedAt": "2026-11-03T22:44:59.913264-07:00"
 }
