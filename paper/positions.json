@@ -13,31 +13,12 @@
       "qty0": 5127.542419,
       "stop": 0.316865,
       "initStop": 0.316865,
-      "mark": 0.324,
-      "rNow": -0.22,
+      "mark": 0.319,
+      "rNow": -0.77,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
       "target": 0.3421
-    },
-    {
-      "id": "crypto-ARPA-20261103101418",
-      "book": "crypto",
-      "symbol": "ARPA",
-      "venue": "USDC",
-      "fx": 1.0,
-      "openedAt": "2026-11-03T10:14:18.915815-07:00",
-      "entry": 0.009918,
-      "qty": 158243.581081,
-      "qty0": 158243.581081,
-      "stop": 0.009622,
-      "initStop": 0.009622,
-      "mark": 0.009773,
-      "rNow": -0.49,
-      "halfTaken": false,
-      "score": 11,
-      "why": "action/PRIME",
-      "target": 0.010453
     },
     {
       "id": "scalp-FRO-20261103124343",
@@ -59,5 +40,5 @@
       "target": 52.71
     }
   ],
-  "updatedAt": "2026-11-03T19:49:50.434907-07:00"
+  "updatedAt": "2026-11-03T20:11:58.094565-07:00"
 }
