@@ -126,3 +126,5 @@
 {"ts": "2026-11-04T06:18:52.517862-07:00", "book": "scalp", "symbol": "FRO", "side": "sell", "qty": 1, "px": 52.55, "reason": "stop", "r": 4.0, "id": "scalp-FRO-20261103124343"}
 {"ts": "2026-11-04T09:16:58.793058-07:00", "book": "crypto", "symbol": "STX", "side": "sell", "qty": 2563.7712095, "px": 0.3477, "reason": "stop", "r": 2.38, "id": "crypto-STX-20261103101418"}
 {"ts": "2026-11-04T09:16:58.793058-07:00", "book": "crypto", "symbol": "KITE", "side": "buy", "qty": 15574.739444, "px": 0.11965, "reason": "action/PRIME", "r": 0.0, "id": "crypto-KITE-20261104091658"}
+{"ts": "2026-11-04T10:17:07.500407-07:00", "book": "scalp", "symbol": "ELV", "side": "buy", "qty": 17, "px": 428.19, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ELV-20261104101707"}
+{"ts": "2026-11-04T10:17:07.500407-07:00", "book": "scalp", "symbol": "IFF", "side": "buy", "qty": 1, "px": 88.86, "reason": "action/PRIME", "r": 0.0, "id": "scalp-IFF-20261104101707"}
