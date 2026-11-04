@@ -21,25 +21,6 @@
       "target": 0.3421
     },
     {
-      "id": "scalp-FRO-20261103124343",
-      "book": "scalp",
-      "symbol": "FRO",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-03T12:43:43.840568-07:00",
-      "entry": 52.39,
-      "qty": 1,
-      "qty0": 2,
-      "stop": 52.55,
-      "initStop": 52.35,
-      "mark": 52.59,
-      "rNow": 5.0,
-      "halfTaken": true,
-      "score": 100.0,
-      "why": "action/PRIME",
-      "target": 52.71
-    },
-    {
       "id": "crypto-GRVT-20261104001836",
       "book": "crypto",
       "symbol": "GRVT",
@@ -59,5 +40,5 @@
       "target": 0.2493
     }
   ],
-  "updatedAt": "2026-11-04T06:13:30.879022-07:00"
+  "updatedAt": "2026-11-04T06:18:52.517862-07:00"
 }
