@@ -139,3 +139,5 @@
 {"ts": "2026-11-05T06:14:09.415300-07:00", "book": "crypto", "symbol": "GLM", "side": "sell", "qty": 26277.681965835873, "px": 0.110379, "reason": "stop", "r": -1.0, "id": "crypto-GLM-20261104184159"}
 {"ts": "2026-11-05T06:14:09.415300-07:00", "book": "crypto", "symbol": "BTC", "side": "buy", "qty": 0.036459927358141776, "px": 79553.21, "reason": "action/PRIME", "r": 0.0, "id": "crypto-BTC-20261105061409"}
 {"ts": "2026-11-05T06:49:09.462003-07:00", "book": "scalp", "symbol": "ELV", "side": "sell", "qty": 9, "px": 436.68, "reason": "stop", "r": 10.23, "id": "scalp-ELV-20261104101707"}
+{"ts": "2026-11-05T08:15:54.367321-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 15574.739444, "px": 0.116546, "reason": "stop", "r": -1.0, "id": "crypto-KITE-20261104091658"}
+{"ts": "2026-11-05T08:15:54.367321-07:00", "book": "crypto", "symbol": "BTC", "side": "sell", "qty": 0.036459927358141776, "px": 78668.504054, "reason": "stop", "r": -1.0, "id": "crypto-BTC-20261105061409"}
