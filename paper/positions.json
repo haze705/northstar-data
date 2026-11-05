@@ -1,25 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "scalp-BRK.B-20261104104635",
-      "book": "scalp",
-      "symbol": "BRK.B",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-04T10:46:35.153907-07:00",
-      "entry": 573.47,
-      "qty": 3,
-      "qty0": 6,
-      "stop": 583.06,
-      "initStop": 572.73,
-      "mark": 583.8,
-      "rNow": 13.96,
-      "halfTaken": true,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 574.58
-    }
-  ],
-  "updatedAt": "2026-11-05T09:17:20.119519-07:00"
+  "positions": [],
+  "updatedAt": "2026-11-05T09:48:26.932320-07:00"
 }
