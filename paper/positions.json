@@ -13,13 +13,32 @@
       "qty0": 35,
       "stop": 213.52,
       "initStop": 213.52,
-      "mark": 214.36,
-      "rNow": -0.14,
+      "mark": 214.83,
+      "rNow": 0.34,
       "halfTaken": false,
       "score": 98.7,
       "why": "action/PRIME",
       "target": 219.99
+    },
+    {
+      "id": "scalp-FLYW-20261105124311",
+      "book": "scalp",
+      "symbol": "FLYW",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-05T12:43:11.635820-07:00",
+      "entry": 21.12,
+      "qty": 1,
+      "qty0": 1,
+      "stop": 21.1,
+      "initStop": 21.1,
+      "mark": 21.12,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 21.58
     }
   ],
-  "updatedAt": "2026-11-05T12:19:02.433766-07:00"
+  "updatedAt": "2026-11-05T12:43:11.635820-07:00"
 }

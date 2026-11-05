@@ -143,3 +143,4 @@
 {"ts": "2026-11-05T08:15:54.367321-07:00", "book": "crypto", "symbol": "BTC", "side": "sell", "qty": 0.036459927358141776, "px": 78668.504054, "reason": "stop", "r": -1.0, "id": "crypto-BTC-20261105061409"}
 {"ts": "2026-11-05T09:48:26.932320-07:00", "book": "scalp", "symbol": "BRK.B", "side": "sell", "qty": 3, "px": 583.06, "reason": "stop", "r": 12.96, "id": "scalp-BRK.B-20261104104635"}
 {"ts": "2026-11-05T11:46:41.182446-07:00", "book": "scalp", "symbol": "COKE", "side": "buy", "qty": 35, "px": 214.5, "reason": "action/PRIME", "r": 0.0, "id": "scalp-COKE-20261105114641"}
+{"ts": "2026-11-05T12:43:11.635820-07:00", "book": "scalp", "symbol": "FLYW", "side": "buy", "qty": 1, "px": 21.12, "reason": "action/PRIME", "r": 0.0, "id": "scalp-FLYW-20261105124311"}
