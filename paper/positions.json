@@ -13,8 +13,8 @@
       "qty0": 15574.739444,
       "stop": 0.116546,
       "initStop": 0.116546,
-      "mark": 0.12028,
-      "rNow": 0.2,
+      "mark": 0.11966,
+      "rNow": 0.0,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
@@ -59,24 +59,24 @@
       "target": 574.58
     },
     {
-      "id": "crypto-GLM-20261104184159",
+      "id": "crypto-BTC-20261105061409",
       "book": "crypto",
-      "symbol": "GLM",
+      "symbol": "BTC",
       "venue": "USDC",
       "fx": 1.0,
-      "openedAt": "2026-11-04T18:41:59.883074-07:00",
-      "entry": 0.1115,
-      "qty": 26277.681965835873,
-      "qty0": 26277.681965835873,
-      "stop": 0.110379,
-      "initStop": 0.110379,
-      "mark": 0.1105,
-      "rNow": -0.89,
+      "openedAt": "2026-11-05T06:14:09.415300-07:00",
+      "entry": 79553.21,
+      "qty": 0.036459927358141776,
+      "qty0": 0.036459927358141776,
+      "stop": 78668.504054,
+      "initStop": 78668.504054,
+      "mark": 79553.21,
+      "rNow": 0.0,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
-      "target": 0.1178
+      "target": 81890.0
     }
   ],
-  "updatedAt": "2026-11-05T05:42:09.790516-07:00"
+  "updatedAt": "2026-11-05T06:14:09.415300-07:00"
 }
