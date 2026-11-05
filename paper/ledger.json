@@ -52,12 +52,8 @@
       "realized": -316.56,
       "unrealized": 0,
       "status": "active",
-      "killSwitch": false,
+      "killSwitch": true,
       "rLog": [
-        {
-          "ts": "2026-11-04T09:16:58.793058-07:00",
-          "r": 1.187739463601532
-        },
         {
           "ts": "2026-11-04T13:15:10.949162-07:00",
           "r": -1.0
@@ -84,8 +80,8 @@
         "asOf": "2026-11-05 16:05 UTC / 09:05 Whitehorse",
         "gate": "CAUTION"
       },
-      "windowR": -2.81
+      "windowR": -4.0
     }
   },
-  "updatedAt": "2026-11-05T09:14:46.058664-07:00"
+  "updatedAt": "2026-11-05T09:17:20.119519-07:00"
 }
