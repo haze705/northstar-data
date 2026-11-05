@@ -1,5 +1,25 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-05T11:41:27.024808-07:00"
+  "positions": [
+    {
+      "id": "scalp-COKE-20261105114641",
+      "book": "scalp",
+      "symbol": "COKE",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-05T11:46:41.182446-07:00",
+      "entry": 214.5,
+      "qty": 35,
+      "qty0": 35,
+      "stop": 213.52,
+      "initStop": 213.52,
+      "mark": 214.5,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 98.7,
+      "why": "action/PRIME",
+      "target": 219.99
+    }
+  ],
+  "updatedAt": "2026-11-05T11:46:41.182446-07:00"
 }
