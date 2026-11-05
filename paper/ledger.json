@@ -60,9 +60,9 @@
       "currency": "USDC",
       "capital": 5000.0,
       "cash": 0.0,
-      "equity": 4791.82,
+      "equity": 4797.43,
       "realized": -206.5,
-      "unrealized": -1.66,
+      "unrealized": 3.95,
       "status": "active",
       "killSwitch": false,
       "rLog": [
@@ -97,11 +97,11 @@
       ],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-11-05 02:05 UTC / 19:05 Whitehorse",
+        "asOf": "2026-11-05 02:37 UTC / 19:37 Whitehorse",
         "gate": "OPEN"
       },
       "windowR": 2.98
     }
   },
-  "updatedAt": "2026-11-04T19:20:17.281972-07:00"
+  "updatedAt": "2026-11-04T19:48:59.624161-07:00"
 }
