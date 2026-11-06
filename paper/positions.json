@@ -1,44 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "scalp-COKE-20261105114641",
-      "book": "scalp",
-      "symbol": "COKE",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-05T11:46:41.182446-07:00",
-      "entry": 214.5,
-      "qty": 35,
-      "qty0": 35,
-      "stop": 213.52,
-      "initStop": 213.52,
-      "mark": 215.24,
-      "rNow": 0.76,
-      "halfTaken": false,
-      "score": 98.7,
-      "why": "action/PRIME",
-      "target": 219.99
-    },
-    {
-      "id": "scalp-FLYW-20261105124311",
-      "book": "scalp",
-      "symbol": "FLYW",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-05T12:43:11.635820-07:00",
-      "entry": 21.12,
-      "qty": 1,
-      "qty0": 1,
-      "stop": 21.24,
-      "initStop": 21.1,
-      "mark": 21.26,
-      "rNow": 7.0,
-      "halfTaken": true,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 21.58
-    }
-  ],
-  "updatedAt": "2026-11-06T05:42:38.191314-07:00"
+  "positions": [],
+  "updatedAt": "2026-11-06T06:16:03.238591-07:00"
 }
