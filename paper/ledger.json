@@ -26,7 +26,7 @@
       "currency": "CAD",
       "capital": 10000.0,
       "cash": 372.69,
-      "equity": 10261.22,
+      "equity": 10261.23,
       "realized": 273.02,
       "unrealized": -11.8,
       "status": "active",
@@ -68,11 +68,11 @@
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-11-06 20:43 UTC / 13:43 Whitehorse",
+        "asOf": "2026-11-06 21:01 UTC / 14:01 Whitehorse",
         "gate": "CAUTION"
       },
       "windowR": 0
     }
   },
-  "updatedAt": "2026-11-06T13:45:05.079165-07:00"
+  "updatedAt": "2026-11-06T14:07:09.288650-07:00"
 }
