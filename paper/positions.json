@@ -13,32 +13,32 @@
       "qty0": 21,
       "stop": 343.46,
       "initStop": 343.46,
-      "mark": 344.57,
-      "rNow": 0.68,
+      "mark": 344.71,
+      "rNow": 0.89,
       "halfTaken": false,
       "score": 100,
       "why": "action/PRIME",
       "target": 345.79
     },
     {
-      "id": "scalp-PM-20261106104438",
+      "id": "scalp-PGR-20261106121029",
       "book": "scalp",
-      "symbol": "PM",
+      "symbol": "PGR",
       "venue": "USD",
       "fx": 1.37,
-      "openedAt": "2026-11-06T10:44:38.133344-07:00",
-      "entry": 199.55,
+      "openedAt": "2026-11-06T12:10:29.298750-07:00",
+      "entry": 229.88,
       "qty": 1,
       "qty0": 1,
-      "stop": 199.55,
-      "initStop": 199.4,
-      "mark": 199.82,
-      "rNow": 1.8,
+      "stop": 229.66,
+      "initStop": 229.66,
+      "mark": 229.88,
+      "rNow": 0.0,
       "halfTaken": false,
       "score": 100,
       "why": "action/PRIME",
-      "target": 200.66
+      "target": 231.09
     }
   ],
-  "updatedAt": "2026-11-06T11:47:29.704171-07:00"
+  "updatedAt": "2026-11-06T12:10:29.298750-07:00"
 }
