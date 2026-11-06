@@ -13,32 +13,13 @@
       "qty0": 21,
       "stop": 343.46,
       "initStop": 343.46,
-      "mark": 344.16,
-      "rNow": 0.06,
+      "mark": 343.71,
+      "rNow": -0.62,
       "halfTaken": false,
       "score": 100,
       "why": "action/PRIME",
       "target": 345.79
-    },
-    {
-      "id": "scalp-PGR-20261106121029",
-      "book": "scalp",
-      "symbol": "PGR",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-06T12:10:29.298750-07:00",
-      "entry": 229.88,
-      "qty": 1,
-      "qty0": 1,
-      "stop": 229.88,
-      "initStop": 229.66,
-      "mark": 230.2,
-      "rNow": 1.45,
-      "halfTaken": false,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 231.09
     }
   ],
-  "updatedAt": "2026-11-06T13:13:19.072175-07:00"
+  "updatedAt": "2026-11-06T13:45:05.079165-07:00"
 }
