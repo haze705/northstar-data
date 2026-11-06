@@ -1,5 +1,44 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-06T10:15:40.908106-07:00"
+  "positions": [
+    {
+      "id": "scalp-AAPL-20261106104438",
+      "book": "scalp",
+      "symbol": "AAPL",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-06T10:44:38.133344-07:00",
+      "entry": 344.12,
+      "qty": 21,
+      "qty0": 21,
+      "stop": 343.46,
+      "initStop": 343.46,
+      "mark": 344.12,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 345.79
+    },
+    {
+      "id": "scalp-PM-20261106104438",
+      "book": "scalp",
+      "symbol": "PM",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-06T10:44:38.133344-07:00",
+      "entry": 199.55,
+      "qty": 1,
+      "qty0": 1,
+      "stop": 199.4,
+      "initStop": 199.4,
+      "mark": 199.55,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 200.66
+    }
+  ],
+  "updatedAt": "2026-11-06T10:44:38.133344-07:00"
 }
