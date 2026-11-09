@@ -1,25 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "scalp-AAPL-20261106104438",
-      "book": "scalp",
-      "symbol": "AAPL",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-06T10:44:38.133344-07:00",
-      "entry": 344.12,
-      "qty": 11,
-      "qty0": 21,
-      "stop": 350.26,
-      "initStop": 343.46,
-      "mark": 350.92,
-      "rNow": 10.3,
-      "halfTaken": true,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 345.79
-    }
-  ],
-  "updatedAt": "2026-11-09T09:16:05.566806-07:00"
+  "positions": [],
+  "updatedAt": "2026-11-09T09:42:07.858247-07:00"
 }
