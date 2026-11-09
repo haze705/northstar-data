@@ -11,15 +11,15 @@
       "entry": 344.12,
       "qty": 11,
       "qty0": 21,
-      "stop": 350.13,
+      "stop": 350.26,
       "initStop": 343.46,
-      "mark": 350.79,
-      "rNow": 10.11,
+      "mark": 350.92,
+      "rNow": 10.3,
       "halfTaken": true,
       "score": 100,
       "why": "action/PRIME",
       "target": 345.79
     }
   ],
-  "updatedAt": "2026-11-09T09:13:15.911569-07:00"
+  "updatedAt": "2026-11-09T09:16:05.566806-07:00"
 }
