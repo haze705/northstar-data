@@ -17,7 +17,7 @@
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/screen-data.js",
-        "asOf": "2026-11-06",
+        "asOf": "2026-11-09",
         "gate": "CLOSED"
       },
       "windowR": 0
@@ -96,11 +96,11 @@
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-11-09 22:08 UTC / 15:08 Whitehorse",
+        "asOf": "2026-11-09 22:39 UTC / 15:39 Whitehorse",
         "gate": "CAUTION"
       },
       "windowR": 0
     }
   },
-  "updatedAt": "2026-11-09T15:18:57.475621-07:00"
+  "updatedAt": "2026-11-09T15:49:35.342251-07:00"
 }
