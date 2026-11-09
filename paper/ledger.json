@@ -34,8 +34,8 @@
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/scalp-data.js",
-        "asOf": "2026-11-09 09:30 ET / 07:30 Whitehorse",
-        "gate": "WAIT"
+        "asOf": "2026-11-09 10:05 ET / 08:05 Whitehorse",
+        "gate": "OPEN"
       },
       "windowR": 0
     },
@@ -51,11 +51,11 @@
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-11-09 14:32 UTC / 07:32 Whitehorse",
+        "asOf": "2026-11-09 15:03 UTC / 08:03 Whitehorse",
         "gate": "CAUTION"
       },
       "windowR": 0
     }
   },
-  "updatedAt": "2026-11-09T07:48:57.953550-07:00"
+  "updatedAt": "2026-11-09T08:14:12.786636-07:00"
 }
