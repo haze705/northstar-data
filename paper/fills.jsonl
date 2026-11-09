@@ -151,3 +151,4 @@
 {"ts": "2026-11-06T12:10:29.298750-07:00", "book": "scalp", "symbol": "PM", "side": "sell", "qty": 1, "px": 199.55, "reason": "stop", "r": 0.0, "id": "scalp-PM-20261106104438"}
 {"ts": "2026-11-06T12:10:29.298750-07:00", "book": "scalp", "symbol": "PGR", "side": "buy", "qty": 1, "px": 229.88, "reason": "action/PRIME", "r": 0.0, "id": "scalp-PGR-20261106121029"}
 {"ts": "2026-11-06T13:45:05.079165-07:00", "book": "scalp", "symbol": "PGR", "side": "sell", "qty": 1, "px": 229.88, "reason": "stop", "r": 0.0, "id": "scalp-PGR-20261106121029"}
+{"ts": "2026-11-09T08:48:09.896290-07:00", "book": "scalp", "symbol": "AAPL", "side": "sell", "qty": 10, "px": 350.79, "reason": "+2R take half", "r": 10.11, "id": "scalp-AAPL-20261106104438"}

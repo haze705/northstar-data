@@ -9,17 +9,17 @@
       "fx": 1.37,
       "openedAt": "2026-11-06T10:44:38.133344-07:00",
       "entry": 344.12,
-      "qty": 21,
+      "qty": 11,
       "qty0": 21,
-      "stop": 343.46,
+      "stop": 350.13,
       "initStop": 343.46,
-      "mark": 343.71,
-      "rNow": -0.62,
-      "halfTaken": false,
+      "mark": 350.79,
+      "rNow": 10.11,
+      "halfTaken": true,
       "score": 100,
       "why": "action/PRIME",
       "target": 345.79
     }
   ],
-  "updatedAt": "2026-11-09T08:18:28.615571-07:00"
+  "updatedAt": "2026-11-09T08:48:09.896290-07:00"
 }
