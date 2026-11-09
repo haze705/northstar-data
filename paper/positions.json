@@ -1,5 +1,44 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-09T10:14:48.193920-07:00"
+  "positions": [
+    {
+      "id": "scalp-KO-20261109101821",
+      "book": "scalp",
+      "symbol": "KO",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-09T10:18:21.577728-07:00",
+      "entry": 95.85,
+      "qty": 79,
+      "qty0": 79,
+      "stop": 95.83,
+      "initStop": 95.83,
+      "mark": 95.85,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 95.97
+    },
+    {
+      "id": "scalp-AMRX-20261109101821",
+      "book": "scalp",
+      "symbol": "AMRX",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-09T10:18:21.577728-07:00",
+      "entry": 21.05,
+      "qty": 2,
+      "qty0": 2,
+      "stop": 20.99,
+      "initStop": 20.99,
+      "mark": 21.05,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 21.19
+    }
+  ],
+  "updatedAt": "2026-11-09T10:18:21.577728-07:00"
 }
