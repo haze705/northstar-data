@@ -2,25 +2,6 @@
   "schema": 1,
   "positions": [
     {
-      "id": "scalp-KO-20261109101821",
-      "book": "scalp",
-      "symbol": "KO",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-09T10:18:21.577728-07:00",
-      "entry": 95.85,
-      "qty": 79,
-      "qty0": 79,
-      "stop": 95.83,
-      "initStop": 95.83,
-      "mark": 95.85,
-      "rNow": 0.0,
-      "halfTaken": false,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 95.97
-    },
-    {
       "id": "scalp-AMRX-20261109101821",
       "book": "scalp",
       "symbol": "AMRX",
@@ -32,13 +13,32 @@
       "qty0": 2,
       "stop": 20.99,
       "initStop": 20.99,
-      "mark": 21.05,
-      "rNow": 0.0,
+      "mark": 21.01,
+      "rNow": -0.67,
       "halfTaken": false,
       "score": 100,
       "why": "action/PRIME",
       "target": 21.19
+    },
+    {
+      "id": "scalp-MRNA-20261109104523",
+      "book": "scalp",
+      "symbol": "MRNA",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-09T10:45:23.148005-07:00",
+      "entry": 276.46,
+      "qty": 27,
+      "qty0": 27,
+      "stop": 276.36,
+      "initStop": 276.36,
+      "mark": 276.46,
+      "rNow": 0.0,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 280.54
     }
   ],
-  "updatedAt": "2026-11-09T10:18:21.577728-07:00"
+  "updatedAt": "2026-11-09T10:45:23.148005-07:00"
 }
