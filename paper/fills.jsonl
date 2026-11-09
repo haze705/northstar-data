@@ -162,3 +162,7 @@
 {"ts": "2026-11-09T11:48:02.707196-07:00", "book": "scalp", "symbol": "MRNA", "side": "sell", "qty": 14, "px": 279.34, "reason": "stop", "r": 28.8, "id": "scalp-MRNA-20261109104523"}
 {"ts": "2026-11-09T11:48:02.707196-07:00", "book": "scalp", "symbol": "FDS", "side": "buy", "qty": 23, "px": 327.09, "reason": "action/PRIME", "r": 0.0, "id": "scalp-FDS-20261109114802"}
 {"ts": "2026-11-09T12:17:41.660251-07:00", "book": "scalp", "symbol": "FDS", "side": "sell", "qty": 11, "px": 327.79, "reason": "+2R take half", "r": 2.33, "id": "scalp-FDS-20261109114802"}
+{"ts": "2026-11-09T12:48:45.380330-07:00", "book": "scalp", "symbol": "AMRX", "side": "sell", "qty": 1, "px": 21.27, "reason": "stop", "r": 3.67, "id": "scalp-AMRX-20261109101821"}
+{"ts": "2026-11-09T12:48:45.380330-07:00", "book": "scalp", "symbol": "FDS", "side": "sell", "qty": 12, "px": 327.49, "reason": "stop", "r": 1.33, "id": "scalp-FDS-20261109114802"}
+{"ts": "2026-11-09T12:48:45.380330-07:00", "book": "scalp", "symbol": "MRNA", "side": "buy", "qty": 27, "px": 278.71, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MRNA-20261109124845"}
+{"ts": "2026-11-09T12:48:45.380330-07:00", "book": "scalp", "symbol": "MDLZ", "side": "buy", "qty": 2, "px": 66.51, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MDLZ-20261109124845"}
