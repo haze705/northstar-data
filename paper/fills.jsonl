@@ -157,3 +157,5 @@
 {"ts": "2026-11-09T10:18:21.577728-07:00", "book": "scalp", "symbol": "AMRX", "side": "buy", "qty": 2, "px": 21.05, "reason": "action/PRIME", "r": 0.0, "id": "scalp-AMRX-20261109101821"}
 {"ts": "2026-11-09T10:45:23.148005-07:00", "book": "scalp", "symbol": "KO", "side": "sell", "qty": 79, "px": 95.83, "reason": "stop", "r": -1.0, "id": "scalp-KO-20261109101821"}
 {"ts": "2026-11-09T10:45:23.148005-07:00", "book": "scalp", "symbol": "MRNA", "side": "buy", "qty": 27, "px": 276.46, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MRNA-20261109104523"}
+{"ts": "2026-11-09T11:18:31.618736-07:00", "book": "scalp", "symbol": "AMRX", "side": "sell", "qty": 1, "px": 21.18, "reason": "+2R take half", "r": 2.17, "id": "scalp-AMRX-20261109101821"}
+{"ts": "2026-11-09T11:18:31.618736-07:00", "book": "scalp", "symbol": "MRNA", "side": "sell", "qty": 13, "px": 279.44, "reason": "+2R take half", "r": 29.8, "id": "scalp-MRNA-20261109104523"}
