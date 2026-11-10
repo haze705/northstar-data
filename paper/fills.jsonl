@@ -168,3 +168,5 @@
 {"ts": "2026-11-09T12:48:45.380330-07:00", "book": "scalp", "symbol": "MDLZ", "side": "buy", "qty": 2, "px": 66.51, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MDLZ-20261109124845"}
 {"ts": "2026-11-09T13:14:34.604613-07:00", "book": "scalp", "symbol": "MRNA", "side": "sell", "qty": 27, "px": 278.15, "reason": "stop", "r": -1.0, "id": "scalp-MRNA-20261109124845"}
 {"ts": "2026-11-09T14:03:32.555801-07:00", "book": "scalp", "symbol": "MDLZ", "side": "sell", "qty": 2, "px": 66.47, "reason": "stop", "r": -1.0, "id": "scalp-MDLZ-20261109124845"}
+{"ts": "2026-11-10T10:40:33.378454-07:00", "book": "scalp", "symbol": "LLY", "side": "buy", "qty": 5, "px": 1420.74, "reason": "action/PRIME", "r": 0.0, "id": "scalp-LLY-20261110104033"}
+{"ts": "2026-11-10T10:40:33.378454-07:00", "book": "scalp", "symbol": "TRV", "side": "buy", "qty": 1, "px": 399.96, "reason": "action/PRIME", "r": 0.0, "id": "scalp-TRV-20261110104033"}
