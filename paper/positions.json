@@ -1,44 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "scalp-LLY-20261110104033",
-      "book": "scalp",
-      "symbol": "LLY",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-10T10:40:33.378454-07:00",
-      "entry": 1420.74,
-      "qty": 5,
-      "qty0": 5,
-      "stop": 1420.74,
-      "initStop": 1419.27,
-      "mark": 1422.05,
-      "rNow": 0.89,
-      "halfTaken": false,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 1423.0
-    },
-    {
-      "id": "scalp-TRV-20261110104033",
-      "book": "scalp",
-      "symbol": "TRV",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-10T10:40:33.378454-07:00",
-      "entry": 399.96,
-      "qty": 1,
-      "qty0": 1,
-      "stop": 400.83,
-      "initStop": 399.74,
-      "mark": 400.85,
-      "rNow": 4.05,
-      "halfTaken": true,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 400.4
-    }
-  ],
-  "updatedAt": "2026-11-10T11:43:08.348785-07:00"
+  "positions": [],
+  "updatedAt": "2026-11-11T06:28:49.946251-07:00"
 }

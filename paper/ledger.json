@@ -17,7 +17,7 @@
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/screen-data.js",
-        "asOf": "2026-11-09",
+        "asOf": "2026-11-10",
         "gate": "CLOSED"
       },
       "windowR": 0
@@ -25,17 +25,17 @@
     "scalp": {
       "currency": "CAD",
       "capital": 10000.0,
-      "cash": 279.87,
-      "equity": 10570.08,
-      "realized": 559.87,
-      "unrealized": 10.19,
+      "cash": 10630.79,
+      "equity": 10630.79,
+      "realized": 630.77,
+      "unrealized": 0,
       "status": "active",
       "killSwitch": false,
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/scalp-data.js",
-        "asOf": "2026-11-10 13:35 ET / 11:35 Whitehorse",
-        "gate": "OPEN"
+        "asOf": "2026-11-10 15:55 ET / 13:55 Whitehorse",
+        "gate": "CLOSED"
       },
       "windowR": 0
     },
@@ -51,11 +51,11 @@
       "rLog": [],
       "source": {
         "path": "/workspace/northstar-data/data/crypto-data.js",
-        "asOf": "2026-11-10 18:41 UTC / 11:41 Whitehorse",
+        "asOf": "2026-11-11 13:17 UTC / 06:17 Whitehorse",
         "gate": "CAUTION"
       },
       "windowR": 0
     }
   },
-  "updatedAt": "2026-11-10T11:43:08.348785-07:00"
+  "updatedAt": "2026-11-11T06:28:49.946251-07:00"
 }
