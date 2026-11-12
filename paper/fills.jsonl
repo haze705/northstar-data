@@ -173,3 +173,27 @@
 {"ts": "2026-11-10T12:11:13.513059-07:00", "book": "scalp", "symbol": "LLY", "side": "sell", "qty": 2, "px": 1427.44, "reason": "+2R take half", "r": 4.56, "id": "scalp-LLY-20261110104033"}
 {"ts": "2026-11-10T14:01:52.060960-07:00", "book": "scalp", "symbol": "TRV", "side": "sell", "qty": 1, "px": 401.35, "reason": "stop", "r": 6.32, "id": "scalp-TRV-20261110104033"}
 {"ts": "2026-11-10T14:17:12.824043-07:00", "book": "scalp", "symbol": "LLY", "side": "sell", "qty": 3, "px": 1433.06, "reason": "stop", "r": 8.38, "id": "scalp-LLY-20261110104033"}
+{"ts": "2026-11-11T10:16:05.411825-07:00", "book": "scalp", "symbol": "MAR", "side": "buy", "qty": 18, "px": 429.48, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MAR-20261111101605"}
+{"ts": "2026-11-11T10:16:05.411825-07:00", "book": "scalp", "symbol": "SXC", "side": "buy", "qty": 2, "px": 10.76, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SXC-20261111101605"}
+{"ts": "2026-11-11T10:22:01.439663-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "buy", "qty": 487.439895, "px": 3.41, "reason": "action/PRIME", "r": 0.0, "id": "crypto-LIGHTER-20261111102201"}
+{"ts": "2026-11-11T10:43:10.597546-07:00", "book": "scalp", "symbol": "MAR", "side": "sell", "qty": 18, "px": 428.86, "reason": "stop", "r": -1.0, "id": "scalp-MAR-20261111101605"}
+{"ts": "2026-11-11T10:43:10.597546-07:00", "book": "scalp", "symbol": "SXC", "side": "sell", "qty": 1, "px": 10.78, "reason": "+2R take half", "r": 2.0, "id": "scalp-SXC-20261111101605"}
+{"ts": "2026-11-11T10:43:10.597546-07:00", "book": "scalp", "symbol": "KSS", "side": "buy", "qty": 312, "px": 24.74, "reason": "action/PRIME", "r": 0.0, "id": "scalp-KSS-20261111104310"}
+{"ts": "2026-11-11T11:12:52.474918-07:00", "book": "scalp", "symbol": "SXC", "side": "sell", "qty": 1, "px": 10.77, "reason": "stop", "r": 1.0, "id": "scalp-SXC-20261111101605"}
+{"ts": "2026-11-11T11:12:52.474918-07:00", "book": "scalp", "symbol": "KSS", "side": "sell", "qty": 312, "px": 24.69, "reason": "stop", "r": -1.0, "id": "scalp-KSS-20261111104310"}
+{"ts": "2026-11-11T11:12:52.474918-07:00", "book": "scalp", "symbol": "HLT", "side": "buy", "qty": 20, "px": 378.27, "reason": "action/PRIME", "r": 0.0, "id": "scalp-HLT-20261111111252"}
+{"ts": "2026-11-11T11:12:52.474918-07:00", "book": "scalp", "symbol": "NTSK", "side": "buy", "qty": 7, "px": 22.55, "reason": "action/PRIME", "r": 0.0, "id": "scalp-NTSK-20261111111252"}
+{"ts": "2026-11-11T11:48:04.470178-07:00", "book": "scalp", "symbol": "HLT", "side": "sell", "qty": 10, "px": 378.84, "reason": "+2R take half", "r": 2.04, "id": "scalp-HLT-20261111111252"}
+{"ts": "2026-11-11T12:18:48.857294-07:00", "book": "scalp", "symbol": "NTSK", "side": "sell", "qty": 7, "px": 22.48, "reason": "stop", "r": -1.0, "id": "scalp-NTSK-20261111111252"}
+{"ts": "2026-11-11T12:18:48.857294-07:00", "book": "scalp", "symbol": "ZETA", "side": "buy", "qty": 103, "px": 38.21, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ZETA-20261111121848"}
+{"ts": "2026-11-11T12:18:48.857294-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "sell", "qty": 487.439895, "px": 3.313918, "reason": "stop", "r": -1.0, "id": "crypto-LIGHTER-20261111102201"}
+{"ts": "2026-11-11T12:44:28.000378-07:00", "book": "scalp", "symbol": "HLT", "side": "sell", "qty": 10, "px": 378.56, "reason": "stop", "r": 1.04, "id": "scalp-HLT-20261111111252"}
+{"ts": "2026-11-11T12:44:28.000378-07:00", "book": "scalp", "symbol": "ZETA", "side": "sell", "qty": 103, "px": 38.18, "reason": "stop", "r": -1.0, "id": "scalp-ZETA-20261111121848"}
+{"ts": "2026-11-11T12:44:28.000378-07:00", "book": "scalp", "symbol": "RNR", "side": "buy", "qty": 21, "px": 352.76, "reason": "action/PRIME", "r": 0.0, "id": "scalp-RNR-20261111124428"}
+{"ts": "2026-11-11T12:44:28.000378-07:00", "book": "scalp", "symbol": "VSXY", "side": "buy", "qty": 2, "px": 110.15, "reason": "action/PRIME", "r": 0.0, "id": "scalp-VSXY-20261111124428"}
+{"ts": "2026-11-11T13:45:10.414414-07:00", "book": "scalp", "symbol": "RNR", "side": "sell", "qty": 10, "px": 353.95, "reason": "+2R take half", "r": 3.72, "id": "scalp-RNR-20261111124428"}
+{"ts": "2026-11-11T13:45:10.414414-07:00", "book": "scalp", "symbol": "VSXY", "side": "sell", "qty": 2, "px": 109.96, "reason": "stop", "r": -1.0, "id": "scalp-VSXY-20261111124428"}
+{"ts": "2026-11-11T14:18:57.128636-07:00", "book": "crypto", "symbol": "AVAX", "side": "buy", "qty": 210.370643, "px": 8.642, "reason": "action/PRIME", "r": 0.0, "id": "crypto-AVAX-20261111141857"}
+{"ts": "2026-11-11T14:18:57.128636-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "buy", "qty": 849.4776682320677, "px": 3.318, "reason": "action/PRIME", "r": 0.0, "id": "crypto-LIGHTER-20261111141857"}
+{"ts": "2026-11-11T16:19:33.394876-07:00", "book": "crypto", "symbol": "AVAX", "side": "sell", "qty": 210.370643, "px": 8.421599, "reason": "stop", "r": -1.0, "id": "crypto-AVAX-20261111141857"}
+{"ts": "2026-11-11T16:19:33.394876-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "sell", "qty": 849.4776682320677, "px": 3.285416, "reason": "stop", "r": -1.0, "id": "crypto-LIGHTER-20261111141857"}

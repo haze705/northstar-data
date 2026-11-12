@@ -1,5 +1,25 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-11T06:28:49.946251-07:00"
+  "positions": [
+    {
+      "id": "scalp-RNR-20261111124428",
+      "book": "scalp",
+      "symbol": "RNR",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-11T12:44:28.000378-07:00",
+      "entry": 352.76,
+      "qty": 11,
+      "qty0": 21,
+      "stop": 353.63,
+      "initStop": 352.44,
+      "mark": 353.76,
+      "rNow": 3.13,
+      "halfTaken": true,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 355.07
+    }
+  ],
+  "updatedAt": "2026-11-12T06:34:50.572496-07:00"
 }
