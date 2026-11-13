@@ -197,3 +197,23 @@
 {"ts": "2026-11-11T14:18:57.128636-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "buy", "qty": 849.4776682320677, "px": 3.318, "reason": "action/PRIME", "r": 0.0, "id": "crypto-LIGHTER-20261111141857"}
 {"ts": "2026-11-11T16:19:33.394876-07:00", "book": "crypto", "symbol": "AVAX", "side": "sell", "qty": 210.370643, "px": 8.421599, "reason": "stop", "r": -1.0, "id": "crypto-AVAX-20261111141857"}
 {"ts": "2026-11-11T16:19:33.394876-07:00", "book": "crypto", "symbol": "LIGHTER", "side": "sell", "qty": 849.4776682320677, "px": 3.285416, "reason": "stop", "r": -1.0, "id": "crypto-LIGHTER-20261111141857"}
+{"ts": "2026-11-12T09:13:40.227553-07:00", "book": "scalp", "symbol": "RNR", "side": "sell", "qty": 11, "px": 356.34, "reason": "stop", "r": 11.19, "id": "scalp-RNR-20261111124428"}
+{"ts": "2026-11-12T10:12:18.800043-07:00", "book": "scalp", "symbol": "RRC", "side": "buy", "qty": 148, "px": 52.47, "reason": "action/PRIME", "r": 0.0, "id": "scalp-RRC-20261112101218"}
+{"ts": "2026-11-12T10:12:18.800043-07:00", "book": "scalp", "symbol": "AVTR", "side": "buy", "qty": 1, "px": 15.64, "reason": "action/PRIME", "r": 0.0, "id": "scalp-AVTR-20261112101218"}
+{"ts": "2026-11-12T11:23:33.310235-07:00", "book": "scalp", "symbol": "RRC", "side": "sell", "qty": 148, "px": 52.43, "reason": "stop", "r": -1.0, "id": "scalp-RRC-20261112101218"}
+{"ts": "2026-11-12T11:23:33.310235-07:00", "book": "scalp", "symbol": "AVTR", "side": "sell", "qty": 1, "px": 15.62, "reason": "stop", "r": -1.0, "id": "scalp-AVTR-20261112101218"}
+{"ts": "2026-11-12T11:23:33.310235-07:00", "book": "scalp", "symbol": "VEEV", "side": "buy", "qty": 25, "px": 302.14, "reason": "action/PRIME", "r": 0.0, "id": "scalp-VEEV-20261112112333"}
+{"ts": "2026-11-12T11:23:33.310235-07:00", "book": "scalp", "symbol": "CNC", "side": "buy", "qty": 3, "px": 70.28, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CNC-20261112112333"}
+{"ts": "2026-11-12T11:50:16.086727-07:00", "book": "scalp", "symbol": "VEEV", "side": "sell", "qty": 25, "px": 301.77, "reason": "stop", "r": -1.0, "id": "scalp-VEEV-20261112112333"}
+{"ts": "2026-11-12T11:50:16.086727-07:00", "book": "scalp", "symbol": "CNC", "side": "sell", "qty": 3, "px": 70.19, "reason": "stop", "r": -1.0, "id": "scalp-CNC-20261112112333"}
+{"ts": "2026-11-12T11:50:16.086727-07:00", "book": "scalp", "symbol": "PGR", "side": "buy", "qty": 32, "px": 236.64, "reason": "action/PRIME", "r": 0.0, "id": "scalp-PGR-20261112115016"}
+{"ts": "2026-11-12T11:50:16.086727-07:00", "book": "scalp", "symbol": "TEM", "side": "buy", "qty": 2, "px": 76.43, "reason": "action/PRIME", "r": 0.0, "id": "scalp-TEM-20261112115016"}
+{"ts": "2026-11-12T12:15:37.069196-07:00", "book": "scalp", "symbol": "TEM", "side": "sell", "qty": 2, "px": 76.15, "reason": "stop", "r": -1.0, "id": "scalp-TEM-20261112115016"}
+{"ts": "2026-11-12T12:15:37.069196-07:00", "book": "scalp", "symbol": "TBBB", "side": "buy", "qty": 2, "px": 68.15, "reason": "action/PRIME", "r": 0.0, "id": "scalp-TBBB-20261112121537"}
+{"ts": "2026-11-12T12:44:33.057156-07:00", "book": "scalp", "symbol": "PGR", "side": "sell", "qty": 32, "px": 236.53, "reason": "stop", "r": -1.0, "id": "scalp-PGR-20261112115016"}
+{"ts": "2026-11-12T12:44:33.057156-07:00", "book": "scalp", "symbol": "TBBB", "side": "sell", "qty": 2, "px": 68.13, "reason": "stop", "r": -1.0, "id": "scalp-TBBB-20261112121537"}
+{"ts": "2026-11-12T12:44:33.057156-07:00", "book": "scalp", "symbol": "CB", "side": "buy", "qty": 20, "px": 373.52, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CB-20261112124433"}
+{"ts": "2026-11-12T12:44:33.057156-07:00", "book": "scalp", "symbol": "CAH", "side": "buy", "qty": 1, "px": 278.96, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CAH-20261112124433"}
+{"ts": "2026-11-12T13:18:55.396375-07:00", "book": "scalp", "symbol": "CB", "side": "sell", "qty": 10, "px": 373.55, "reason": "+2R take half", "r": 3.0, "id": "scalp-CB-20261112124433"}
+{"ts": "2026-11-12T13:18:55.396375-07:00", "book": "scalp", "symbol": "CAH", "side": "sell", "qty": 1, "px": 278.67, "reason": "stop", "r": -1.0, "id": "scalp-CAH-20261112124433"}
+{"ts": "2026-11-12T14:12:23.606595-07:00", "book": "scalp", "symbol": "CB", "side": "sell", "qty": 10, "px": 374.19, "reason": "stop", "r": 67.0, "id": "scalp-CB-20261112124433"}
