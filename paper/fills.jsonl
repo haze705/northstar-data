@@ -217,3 +217,11 @@
 {"ts": "2026-11-12T13:18:55.396375-07:00", "book": "scalp", "symbol": "CB", "side": "sell", "qty": 10, "px": 373.55, "reason": "+2R take half", "r": 3.0, "id": "scalp-CB-20261112124433"}
 {"ts": "2026-11-12T13:18:55.396375-07:00", "book": "scalp", "symbol": "CAH", "side": "sell", "qty": 1, "px": 278.67, "reason": "stop", "r": -1.0, "id": "scalp-CAH-20261112124433"}
 {"ts": "2026-11-12T14:12:23.606595-07:00", "book": "scalp", "symbol": "CB", "side": "sell", "qty": 10, "px": 374.19, "reason": "stop", "r": 67.0, "id": "scalp-CB-20261112124433"}
+{"ts": "2026-11-13T10:14:32.919929-07:00", "book": "scalp", "symbol": "LLY", "side": "buy", "qty": 5, "px": 1438.54, "reason": "action/PRIME", "r": 0.0, "id": "scalp-LLY-20261113101432"}
+{"ts": "2026-11-13T10:14:32.919929-07:00", "book": "scalp", "symbol": "CAH", "side": "buy", "qty": 2, "px": 280.19, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CAH-20261113101432"}
+{"ts": "2026-11-13T10:46:03.043057-07:00", "book": "scalp", "symbol": "LLY", "side": "sell", "qty": 2, "px": 1443.24, "reason": "+2R take half", "r": 4.56, "id": "scalp-LLY-20261113101432"}
+{"ts": "2026-11-13T10:46:03.043057-07:00", "book": "scalp", "symbol": "CAH", "side": "sell", "qty": 1, "px": 280.88, "reason": "+2R take half", "r": 5.75, "id": "scalp-CAH-20261113101432"}
+{"ts": "2026-11-13T11:16:24.548584-07:00", "book": "scalp", "symbol": "CAH", "side": "sell", "qty": 1, "px": 280.76, "reason": "stop", "r": 4.75, "id": "scalp-CAH-20261113101432"}
+{"ts": "2026-11-13T11:16:24.548584-07:00", "book": "scalp", "symbol": "MSFT", "side": "buy", "qty": 6, "px": 523.97, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MSFT-20261113111624"}
+{"ts": "2026-11-13T13:14:28.830841-07:00", "book": "scalp", "symbol": "LLY", "side": "sell", "qty": 3, "px": 1447.08, "reason": "stop", "r": 8.29, "id": "scalp-LLY-20261113101432"}
+{"ts": "2026-11-13T13:42:14.792238-07:00", "book": "scalp", "symbol": "MSFT", "side": "sell", "qty": 6, "px": 523.97, "reason": "stop", "r": 0.0, "id": "scalp-MSFT-20261113111624"}
