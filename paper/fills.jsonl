@@ -225,3 +225,9 @@
 {"ts": "2026-11-13T11:16:24.548584-07:00", "book": "scalp", "symbol": "MSFT", "side": "buy", "qty": 6, "px": 523.97, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MSFT-20261113111624"}
 {"ts": "2026-11-13T13:14:28.830841-07:00", "book": "scalp", "symbol": "LLY", "side": "sell", "qty": 3, "px": 1447.08, "reason": "stop", "r": 8.29, "id": "scalp-LLY-20261113101432"}
 {"ts": "2026-11-13T13:42:14.792238-07:00", "book": "scalp", "symbol": "MSFT", "side": "sell", "qty": 6, "px": 523.97, "reason": "stop", "r": 0.0, "id": "scalp-MSFT-20261113111624"}
+{"ts": "2026-11-16T10:40:57.007699-07:00", "book": "scalp", "symbol": "DRI", "side": "buy", "qty": 33, "px": 231.98, "reason": "action/PRIME", "r": 0.0, "id": "scalp-DRI-20261116104057"}
+{"ts": "2026-11-16T10:40:57.007699-07:00", "book": "scalp", "symbol": "OVV", "side": "buy", "qty": 2, "px": 64.75, "reason": "action/PRIME", "r": 0.0, "id": "scalp-OVV-20261116104057"}
+{"ts": "2026-11-16T11:14:48.851567-07:00", "book": "scalp", "symbol": "DRI", "side": "sell", "qty": 33, "px": 231.64, "reason": "stop", "r": -1.0, "id": "scalp-DRI-20261116104057"}
+{"ts": "2026-11-16T11:14:48.851567-07:00", "book": "scalp", "symbol": "ELV", "side": "buy", "qty": 17, "px": 445.33, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ELV-20261116111448"}
+{"ts": "2026-11-16T11:48:09.992102-07:00", "book": "scalp", "symbol": "OVV", "side": "sell", "qty": 2, "px": 64.57, "reason": "stop", "r": -1.0, "id": "scalp-OVV-20261116104057"}
+{"ts": "2026-11-16T11:48:09.992102-07:00", "book": "scalp", "symbol": "ELV", "side": "sell", "qty": 17, "px": 444.98, "reason": "stop", "r": -1.0, "id": "scalp-ELV-20261116111448"}
