@@ -231,3 +231,14 @@
 {"ts": "2026-11-16T11:14:48.851567-07:00", "book": "scalp", "symbol": "ELV", "side": "buy", "qty": 17, "px": 445.33, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ELV-20261116111448"}
 {"ts": "2026-11-16T11:48:09.992102-07:00", "book": "scalp", "symbol": "OVV", "side": "sell", "qty": 2, "px": 64.57, "reason": "stop", "r": -1.0, "id": "scalp-OVV-20261116104057"}
 {"ts": "2026-11-16T11:48:09.992102-07:00", "book": "scalp", "symbol": "ELV", "side": "sell", "qty": 17, "px": 444.98, "reason": "stop", "r": -1.0, "id": "scalp-ELV-20261116111448"}
+{"ts": "2026-11-17T10:42:36.113579-07:00", "book": "scalp", "symbol": "CI", "side": "buy", "qty": 26, "px": 297.39, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CI-20261117104236"}
+{"ts": "2026-11-17T10:43:42.358308-07:00", "book": "scalp", "symbol": "CI", "side": "sell", "qty": 26, "px": 296.91, "reason": "stop", "r": -1.0, "id": "scalp-CI-20261117104236"}
+{"ts": "2026-11-17T10:43:42.358308-07:00", "book": "scalp", "symbol": "HUM", "side": "buy", "qty": 17, "px": 443.41, "reason": "action/PRIME", "r": 0.0, "id": "scalp-HUM-20261117104342"}
+{"ts": "2026-11-17T10:43:42.358308-07:00", "book": "scalp", "symbol": "RPRX", "side": "buy", "qty": 3, "px": 68.29, "reason": "action/PRIME", "r": 0.0, "id": "scalp-RPRX-20261117104342"}
+{"ts": "2026-11-17T11:35:40.459535-07:00", "book": "scalp", "symbol": "HUM", "side": "sell", "qty": 8, "px": 444.04, "reason": "+2R take half", "r": 21.0, "id": "scalp-HUM-20261117104342"}
+{"ts": "2026-11-17T11:35:40.459535-07:00", "book": "scalp", "symbol": "RPRX", "side": "sell", "qty": 1, "px": 68.39, "reason": "+2R take half", "r": 5.0, "id": "scalp-RPRX-20261117104342"}
+{"ts": "2026-11-17T12:09:09.581171-07:00", "book": "scalp", "symbol": "HUM", "side": "sell", "qty": 9, "px": 444.01, "reason": "stop", "r": 20.0, "id": "scalp-HUM-20261117104342"}
+{"ts": "2026-11-17T12:09:09.581171-07:00", "book": "scalp", "symbol": "CART", "side": "buy", "qty": 130, "px": 58.57, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CART-20261117120909"}
+{"ts": "2026-11-17T12:41:44.476067-07:00", "book": "scalp", "symbol": "RPRX", "side": "sell", "qty": 2, "px": 68.4, "reason": "stop", "r": 5.5, "id": "scalp-RPRX-20261117104342"}
+{"ts": "2026-11-17T12:41:44.476067-07:00", "book": "scalp", "symbol": "DOCU", "side": "buy", "qty": 2, "px": 76.86, "reason": "action/PRIME", "r": 0.0, "id": "scalp-DOCU-20261117124144"}
+{"ts": "2026-11-17T13:40:50.145207-07:00", "book": "scalp", "symbol": "DOCU", "side": "sell", "qty": 2, "px": 76.63, "reason": "stop", "r": -1.0, "id": "scalp-DOCU-20261117124144"}

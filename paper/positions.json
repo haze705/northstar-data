@@ -1,5 +1,25 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-17T06:34:21.503912-07:00"
+  "positions": [
+    {
+      "id": "scalp-CART-20261117120909",
+      "book": "scalp",
+      "symbol": "CART",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-17T12:09:09.581171-07:00",
+      "entry": 58.57,
+      "qty": 130,
+      "qty0": 130,
+      "stop": 58.5,
+      "initStop": 58.5,
+      "mark": 58.53,
+      "rNow": -0.57,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 58.84
+    }
+  ],
+  "updatedAt": "2026-11-18T06:34:29.138601-07:00"
 }
