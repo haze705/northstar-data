@@ -242,3 +242,17 @@
 {"ts": "2026-11-17T12:41:44.476067-07:00", "book": "scalp", "symbol": "RPRX", "side": "sell", "qty": 2, "px": 68.4, "reason": "stop", "r": 5.5, "id": "scalp-RPRX-20261117104342"}
 {"ts": "2026-11-17T12:41:44.476067-07:00", "book": "scalp", "symbol": "DOCU", "side": "buy", "qty": 2, "px": 76.86, "reason": "action/PRIME", "r": 0.0, "id": "scalp-DOCU-20261117124144"}
 {"ts": "2026-11-17T13:40:50.145207-07:00", "book": "scalp", "symbol": "DOCU", "side": "sell", "qty": 2, "px": 76.63, "reason": "stop", "r": -1.0, "id": "scalp-DOCU-20261117124144"}
+{"ts": "2026-11-18T09:47:02.235580-07:00", "book": "scalp", "symbol": "CART", "side": "sell", "qty": 65, "px": 58.72, "reason": "+2R take half", "r": 2.14, "id": "scalp-CART-20261117120909"}
+{"ts": "2026-11-18T10:41:44.893036-07:00", "book": "scalp", "symbol": "MDLZ", "side": "buy", "qty": 60, "px": 66.51, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MDLZ-20261118104144"}
+{"ts": "2026-11-18T10:45:37.428916-07:00", "book": "scalp", "symbol": "MDLZ", "side": "sell", "qty": 60, "px": 66.5, "reason": "stop", "r": -1.0, "id": "scalp-MDLZ-20261118104144"}
+{"ts": "2026-11-18T10:45:37.428916-07:00", "book": "scalp", "symbol": "SPOT", "side": "buy", "qty": 6, "px": 607.55, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SPOT-20261118104537"}
+{"ts": "2026-11-18T11:16:12.369197-07:00", "book": "scalp", "symbol": "CART", "side": "sell", "qty": 65, "px": 58.92, "reason": "stop", "r": 5.0, "id": "scalp-CART-20261117120909"}
+{"ts": "2026-11-18T11:16:12.369197-07:00", "book": "scalp", "symbol": "SPOT", "side": "sell", "qty": 3, "px": 610.48, "reason": "+2R take half", "r": 3.96, "id": "scalp-SPOT-20261118104537"}
+{"ts": "2026-11-18T11:16:12.369197-07:00", "book": "scalp", "symbol": "V", "side": "buy", "qty": 14, "px": 416.88, "reason": "action/PRIME", "r": 0.0, "id": "scalp-V-20261118111612"}
+{"ts": "2026-11-18T11:43:11.780745-07:00", "book": "scalp", "symbol": "V", "side": "sell", "qty": 7, "px": 416.93, "reason": "+2R take half", "r": 5.0, "id": "scalp-V-20261118111612"}
+{"ts": "2026-11-18T12:19:00.553347-07:00", "book": "scalp", "symbol": "SPOT", "side": "sell", "qty": 3, "px": 610.34, "reason": "stop", "r": 3.77, "id": "scalp-SPOT-20261118104537"}
+{"ts": "2026-11-18T12:19:00.553347-07:00", "book": "scalp", "symbol": "V", "side": "sell", "qty": 7, "px": 416.92, "reason": "stop", "r": 4.0, "id": "scalp-V-20261118111612"}
+{"ts": "2026-11-18T12:19:00.553347-07:00", "book": "scalp", "symbol": "IBN", "side": "buy", "qty": 224, "px": 34.9, "reason": "action/PRIME", "r": 0.0, "id": "scalp-IBN-20261118121900"}
+{"ts": "2026-11-18T12:19:00.553347-07:00", "book": "scalp", "symbol": "ARDT", "side": "buy", "qty": 1, "px": 14.31, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ARDT-20261118121900"}
+{"ts": "2026-11-18T13:14:39.740753-07:00", "book": "scalp", "symbol": "IBN", "side": "sell", "qty": 112, "px": 34.95, "reason": "+2R take half", "r": 5.0, "id": "scalp-IBN-20261118121900"}
+{"ts": "2026-11-18T14:45:22.935471-07:00", "book": "scalp", "symbol": "IBN", "side": "sell", "qty": 112, "px": 34.96, "reason": "stop", "r": 6.0, "id": "scalp-IBN-20261118121900"}

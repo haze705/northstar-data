@@ -2,24 +2,24 @@
   "schema": 1,
   "positions": [
     {
-      "id": "scalp-CART-20261117120909",
+      "id": "scalp-ARDT-20261118121900",
       "book": "scalp",
-      "symbol": "CART",
+      "symbol": "ARDT",
       "venue": "USD",
       "fx": 1.37,
-      "openedAt": "2026-11-17T12:09:09.581171-07:00",
-      "entry": 58.57,
-      "qty": 130,
-      "qty0": 130,
-      "stop": 58.5,
-      "initStop": 58.5,
-      "mark": 58.53,
-      "rNow": -0.57,
+      "openedAt": "2026-11-18T12:19:00.553347-07:00",
+      "entry": 14.31,
+      "qty": 1,
+      "qty0": 1,
+      "stop": 14.31,
+      "initStop": 14.27,
+      "mark": 14.38,
+      "rNow": 1.75,
       "halfTaken": false,
-      "score": 100,
+      "score": 98.6,
       "why": "action/PRIME",
-      "target": 58.84
+      "target": 14.53
     }
   ],
-  "updatedAt": "2026-11-18T06:34:29.138601-07:00"
+  "updatedAt": "2026-11-19T06:30:06.998245-07:00"
 }
