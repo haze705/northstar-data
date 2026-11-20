@@ -256,3 +256,12 @@
 {"ts": "2026-11-18T12:19:00.553347-07:00", "book": "scalp", "symbol": "ARDT", "side": "buy", "qty": 1, "px": 14.31, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ARDT-20261118121900"}
 {"ts": "2026-11-18T13:14:39.740753-07:00", "book": "scalp", "symbol": "IBN", "side": "sell", "qty": 112, "px": 34.95, "reason": "+2R take half", "r": 5.0, "id": "scalp-IBN-20261118121900"}
 {"ts": "2026-11-18T14:45:22.935471-07:00", "book": "scalp", "symbol": "IBN", "side": "sell", "qty": 112, "px": 34.96, "reason": "stop", "r": 6.0, "id": "scalp-IBN-20261118121900"}
+{"ts": "2026-11-19T10:15:21.145325-07:00", "book": "scalp", "symbol": "ARDT", "side": "sell", "qty": 1, "px": 14.56, "reason": "stop", "r": 6.25, "id": "scalp-ARDT-20261118121900"}
+{"ts": "2026-11-19T10:45:05.884018-07:00", "book": "scalp", "symbol": "KO", "side": "buy", "qty": 82, "px": 95.72, "reason": "action/PRIME", "r": 0.0, "id": "scalp-KO-20261119104505"}
+{"ts": "2026-11-19T11:12:09.184152-07:00", "book": "scalp", "symbol": "KO", "side": "sell", "qty": 41, "px": 96.06, "reason": "+2R take half", "r": 5.67, "id": "scalp-KO-20261119104505"}
+{"ts": "2026-11-19T11:12:09.184152-07:00", "book": "scalp", "symbol": "IBN", "side": "buy", "qty": 112, "px": 35.1, "reason": "action/PRIME", "r": 0.0, "id": "scalp-IBN-20261119111209"}
+{"ts": "2026-11-19T12:14:25.388140-07:00", "book": "scalp", "symbol": "KO", "side": "sell", "qty": 41, "px": 96.41, "reason": "stop", "r": 11.5, "id": "scalp-KO-20261119104505"}
+{"ts": "2026-11-19T12:14:25.388140-07:00", "book": "scalp", "symbol": "WRB", "side": "buy", "qty": 51, "px": 77.07, "reason": "action/PRIME", "r": 0.0, "id": "scalp-WRB-20261119121425"}
+{"ts": "2026-11-19T12:40:41.810042-07:00", "book": "scalp", "symbol": "IBN", "side": "sell", "qty": 112, "px": 35.1, "reason": "stop", "r": 0.0, "id": "scalp-IBN-20261119111209"}
+{"ts": "2026-11-19T12:40:41.810042-07:00", "book": "scalp", "symbol": "WRB", "side": "sell", "qty": 25, "px": 77.22, "reason": "+2R take half", "r": 5.0, "id": "scalp-WRB-20261119121425"}
+{"ts": "2026-11-19T12:40:41.810042-07:00", "book": "scalp", "symbol": "MO", "side": "buy", "qty": 79, "px": 74.62, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MO-20261119124041"}

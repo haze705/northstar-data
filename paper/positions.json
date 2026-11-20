@@ -2,24 +2,43 @@
   "schema": 1,
   "positions": [
     {
-      "id": "scalp-ARDT-20261118121900",
+      "id": "scalp-WRB-20261119121425",
       "book": "scalp",
-      "symbol": "ARDT",
+      "symbol": "WRB",
       "venue": "USD",
       "fx": 1.37,
-      "openedAt": "2026-11-18T12:19:00.553347-07:00",
-      "entry": 14.31,
-      "qty": 1,
-      "qty0": 1,
-      "stop": 14.31,
-      "initStop": 14.27,
-      "mark": 14.38,
-      "rNow": 1.75,
-      "halfTaken": false,
-      "score": 98.6,
+      "openedAt": "2026-11-19T12:14:25.388140-07:00",
+      "entry": 77.07,
+      "qty": 26,
+      "qty0": 51,
+      "stop": 77.36,
+      "initStop": 77.04,
+      "mark": 77.39,
+      "rNow": 10.67,
+      "halfTaken": true,
+      "score": 100,
       "why": "action/PRIME",
-      "target": 14.53
+      "target": 77.15
+    },
+    {
+      "id": "scalp-MO-20261119124041",
+      "book": "scalp",
+      "symbol": "MO",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-19T12:40:41.810042-07:00",
+      "entry": 74.62,
+      "qty": 79,
+      "qty0": 79,
+      "stop": 74.53,
+      "initStop": 74.53,
+      "mark": 74.69,
+      "rNow": 0.78,
+      "halfTaken": false,
+      "score": 100.0,
+      "why": "action/PRIME",
+      "target": 75.45
     }
   ],
-  "updatedAt": "2026-11-19T06:30:06.998245-07:00"
+  "updatedAt": "2026-11-20T06:29:16.301735-07:00"
 }
