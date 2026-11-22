@@ -1,5 +1,25 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-21T06:28:38.594437-07:00"
+  "positions": [
+    {
+      "id": "crypto-O-20261122034716",
+      "book": "crypto",
+      "symbol": "O",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-22T03:47:16.283894-07:00",
+      "entry": 0.59293,
+      "qty": 2181.989479,
+      "qty0": 2181.989479,
+      "stop": 0.57202,
+      "initStop": 0.57202,
+      "mark": 0.59875,
+      "rNow": 0.28,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.63461
+    }
+  ],
+  "updatedAt": "2026-11-22T06:29:34.273111-07:00"
 }

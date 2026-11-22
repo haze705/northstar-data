@@ -279,3 +279,4 @@
 {"ts": "2026-11-20T12:19:22.378844-07:00", "book": "scalp", "symbol": "XMTR", "side": "buy", "qty": 2, "px": 106.57, "reason": "action/PRIME", "r": 0.0, "id": "scalp-XMTR-20261120121922"}
 {"ts": "2026-11-20T12:39:27.688748-07:00", "book": "scalp", "symbol": "ABBV", "side": "sell", "qty": 27, "px": 288.34, "reason": "stop", "r": -1.0, "id": "scalp-ABBV-20261120101631"}
 {"ts": "2026-11-20T12:39:27.688748-07:00", "book": "scalp", "symbol": "XMTR", "side": "sell", "qty": 2, "px": 106.56, "reason": "stop", "r": -1.0, "id": "scalp-XMTR-20261120121922"}
+{"ts": "2026-11-22T03:47:16.283894-07:00", "book": "crypto", "symbol": "O", "side": "buy", "qty": 2181.989479, "px": 0.59293, "reason": "action/PRIME", "r": 0.0, "id": "crypto-O-20261122034716"}
