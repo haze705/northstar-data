@@ -280,3 +280,10 @@
 {"ts": "2026-11-20T12:39:27.688748-07:00", "book": "scalp", "symbol": "ABBV", "side": "sell", "qty": 27, "px": 288.34, "reason": "stop", "r": -1.0, "id": "scalp-ABBV-20261120101631"}
 {"ts": "2026-11-20T12:39:27.688748-07:00", "book": "scalp", "symbol": "XMTR", "side": "sell", "qty": 2, "px": 106.56, "reason": "stop", "r": -1.0, "id": "scalp-XMTR-20261120121922"}
 {"ts": "2026-11-22T03:47:16.283894-07:00", "book": "crypto", "symbol": "O", "side": "buy", "qty": 2181.989479, "px": 0.59293, "reason": "action/PRIME", "r": 0.0, "id": "crypto-O-20261122034716"}
+{"ts": "2026-11-22T07:16:41.419050-07:00", "book": "crypto", "symbol": "CT", "side": "buy", "qty": 11114.179884, "px": 0.12986, "reason": "action/PRIME", "r": 0.0, "id": "crypto-CT-20261122071641"}
+{"ts": "2026-11-22T15:40:36.545937-07:00", "book": "crypto", "symbol": "CT", "side": "sell", "qty": 11114.179884, "px": 0.12986, "reason": "stop", "r": 0.0, "id": "crypto-CT-20261122071641"}
+{"ts": "2026-11-22T15:40:36.545937-07:00", "book": "crypto", "symbol": "PRL", "side": "buy", "qty": 29642.298061, "px": 0.07252, "reason": "action/PRIME", "r": 0.0, "id": "crypto-PRL-20261122154036"}
+{"ts": "2026-11-22T18:10:43.379229-07:00", "book": "crypto", "symbol": "PRL", "side": "sell", "qty": 29642.298061, "px": 0.070973, "reason": "stop", "r": -1.0, "id": "crypto-PRL-20261122154036"}
+{"ts": "2026-11-22T18:10:43.379229-07:00", "book": "crypto", "symbol": "ZAMA", "side": "buy", "qty": 49027.103047, "px": 0.0605, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ZAMA-20261122181043"}
+{"ts": "2026-11-23T02:42:09.713023-07:00", "book": "crypto", "symbol": "O", "side": "sell", "qty": 2181.989479, "px": 0.59293, "reason": "stop", "r": 0.0, "id": "crypto-O-20261122034716"}
+{"ts": "2026-11-23T02:42:09.713023-07:00", "book": "crypto", "symbol": "ERA", "side": "buy", "qty": 20840.55136805739, "px": 0.0744, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ERA-20261123024209"}

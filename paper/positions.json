@@ -2,24 +2,43 @@
   "schema": 1,
   "positions": [
     {
-      "id": "crypto-O-20261122034716",
+      "id": "crypto-ZAMA-20261122181043",
       "book": "crypto",
-      "symbol": "O",
+      "symbol": "ZAMA",
       "venue": "USDC",
       "fx": 1.0,
-      "openedAt": "2026-11-22T03:47:16.283894-07:00",
-      "entry": 0.59293,
-      "qty": 2181.989479,
-      "qty0": 2181.989479,
-      "stop": 0.57202,
-      "initStop": 0.57202,
-      "mark": 0.59875,
-      "rNow": 0.28,
+      "openedAt": "2026-11-22T18:10:43.379229-07:00",
+      "entry": 0.0605,
+      "qty": 49027.103047,
+      "qty0": 49027.103047,
+      "stop": 0.059572,
+      "initStop": 0.059572,
+      "mark": 0.05964,
+      "rNow": -0.93,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
-      "target": 0.63461
+      "target": 0.06408
+    },
+    {
+      "id": "crypto-ERA-20261123024209",
+      "book": "crypto",
+      "symbol": "ERA",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-23T02:42:09.713023-07:00",
+      "entry": 0.0744,
+      "qty": 20840.55136805739,
+      "qty0": 20840.55136805739,
+      "stop": 0.072255,
+      "initStop": 0.072255,
+      "mark": 0.0735,
+      "rNow": -0.42,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.0792
     }
   ],
-  "updatedAt": "2026-11-22T06:29:34.273111-07:00"
+  "updatedAt": "2026-11-23T06:34:55.623793-07:00"
 }
