@@ -287,3 +287,26 @@
 {"ts": "2026-11-22T18:10:43.379229-07:00", "book": "crypto", "symbol": "ZAMA", "side": "buy", "qty": 49027.103047, "px": 0.0605, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ZAMA-20261122181043"}
 {"ts": "2026-11-23T02:42:09.713023-07:00", "book": "crypto", "symbol": "O", "side": "sell", "qty": 2181.989479, "px": 0.59293, "reason": "stop", "r": 0.0, "id": "crypto-O-20261122034716"}
 {"ts": "2026-11-23T02:42:09.713023-07:00", "book": "crypto", "symbol": "ERA", "side": "buy", "qty": 20840.55136805739, "px": 0.0744, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ERA-20261123024209"}
+{"ts": "2026-11-23T10:12:24.010533-07:00", "book": "scalp", "symbol": "AFG", "side": "buy", "qty": 50, "px": 158.0, "reason": "action/PRIME", "r": 0.0, "id": "scalp-AFG-20261123101224"}
+{"ts": "2026-11-23T10:12:24.010533-07:00", "book": "scalp", "symbol": "REPL", "side": "buy", "qty": 7, "px": 20.89, "reason": "action/PRIME", "r": 0.0, "id": "scalp-REPL-20261123101224"}
+{"ts": "2026-11-23T11:05:55.379980-07:00", "book": "scalp", "symbol": "AFG", "side": "sell", "qty": 25, "px": 158.25, "reason": "+2R take half", "r": 6.25, "id": "scalp-AFG-20261123101224"}
+{"ts": "2026-11-23T11:14:02.279589-07:00", "book": "scalp", "symbol": "AFG", "side": "sell", "qty": 25, "px": 158.21, "reason": "stop", "r": 5.25, "id": "scalp-AFG-20261123101224"}
+{"ts": "2026-11-23T11:14:02.279589-07:00", "book": "scalp", "symbol": "REPL", "side": "sell", "qty": 7, "px": 20.89, "reason": "stop", "r": 0.0, "id": "scalp-REPL-20261123101224"}
+{"ts": "2026-11-23T11:14:02.279589-07:00", "book": "scalp", "symbol": "FMX", "side": "buy", "qty": 63, "px": 127.18, "reason": "action/PRIME", "r": 0.0, "id": "scalp-FMX-20261123111402"}
+{"ts": "2026-11-23T11:14:02.279589-07:00", "book": "scalp", "symbol": "CENTA", "side": "buy", "qty": 1, "px": 40.41, "reason": "action/PRIME", "r": 0.0, "id": "scalp-CENTA-20261123111402"}
+{"ts": "2026-11-23T11:43:20.548120-07:00", "book": "scalp", "symbol": "FMX", "side": "sell", "qty": 63, "px": 127.1, "reason": "stop", "r": -1.0, "id": "scalp-FMX-20261123111402"}
+{"ts": "2026-11-23T11:43:20.548120-07:00", "book": "scalp", "symbol": "CENTA", "side": "sell", "qty": 1, "px": 40.4, "reason": "stop", "r": -1.0, "id": "scalp-CENTA-20261123111402"}
+{"ts": "2026-11-23T11:43:20.548120-07:00", "book": "scalp", "symbol": "MA", "side": "buy", "qty": 12, "px": 637.11, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MA-20261123114320"}
+{"ts": "2026-11-23T11:43:20.548120-07:00", "book": "scalp", "symbol": "KO", "side": "buy", "qty": 4, "px": 95.96, "reason": "action/PRIME", "r": 0.0, "id": "scalp-KO-20261123114320"}
+{"ts": "2026-11-23T12:08:31.378219-07:00", "book": "crypto", "symbol": "ZAMA", "side": "sell", "qty": 49027.103047, "px": 0.0605, "reason": "stop", "r": 0.0, "id": "crypto-ZAMA-20261122181043"}
+{"ts": "2026-11-23T12:08:31.378219-07:00", "book": "crypto", "symbol": "KITE", "side": "buy", "qty": 21319.19596308129, "px": 0.13913, "reason": "action/PRIME", "r": 0.0, "id": "crypto-KITE-20261123120831"}
+{"ts": "2026-11-23T12:16:44.059638-07:00", "book": "scalp", "symbol": "MA", "side": "sell", "qty": 6, "px": 638.28, "reason": "+2R take half", "r": 117.0, "id": "scalp-MA-20261123114320"}
+{"ts": "2026-11-23T12:16:44.059638-07:00", "book": "scalp", "symbol": "KO", "side": "sell", "qty": 2, "px": 96.19, "reason": "+2R take half", "r": 7.67, "id": "scalp-KO-20261123114320"}
+{"ts": "2026-11-23T12:45:56.657246-07:00", "book": "scalp", "symbol": "KO", "side": "sell", "qty": 2, "px": 96.16, "reason": "stop", "r": 6.67, "id": "scalp-KO-20261123114320"}
+{"ts": "2026-11-23T12:45:56.657246-07:00", "book": "scalp", "symbol": "DIS", "side": "buy", "qty": 35, "px": 119.9, "reason": "action/PRIME", "r": 0.0, "id": "scalp-DIS-20261123124556"}
+{"ts": "2026-11-23T13:14:48.663479-07:00", "book": "scalp", "symbol": "MA", "side": "sell", "qty": 6, "px": 638.4, "reason": "stop", "r": 129.0, "id": "scalp-MA-20261123114320"}
+{"ts": "2026-11-23T15:42:30.403397-07:00", "book": "scalp", "symbol": "DIS", "side": "sell", "qty": 17, "px": 120.33, "reason": "+2R take half", "r": 2.15, "id": "scalp-DIS-20261123124556"}
+{"ts": "2026-11-23T15:42:30.403397-07:00", "book": "crypto", "symbol": "ERA", "side": "sell", "qty": 20840.55136805739, "px": 0.0744, "reason": "stop", "r": 0.0, "id": "crypto-ERA-20261123024209"}
+{"ts": "2026-11-23T15:42:30.403397-07:00", "book": "crypto", "symbol": "AUDD", "side": "buy", "qty": 2352.5064812372475, "px": 0.6591, "reason": "action/PRIME", "r": 0.0, "id": "crypto-AUDD-20261123154230"}
+{"ts": "2026-11-23T23:44:24.642923-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 10659.597981540644, "px": 0.14281, "reason": "+2R take half", "r": 2.4, "id": "crypto-KITE-20261123120831"}
+{"ts": "2026-11-24T03:14:06.918522-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 10659.597981540644, "px": 0.1431, "reason": "stop", "r": 2.58, "id": "crypto-KITE-20261123120831"}
