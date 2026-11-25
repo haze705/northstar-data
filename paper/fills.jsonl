@@ -310,3 +310,11 @@
 {"ts": "2026-11-23T15:42:30.403397-07:00", "book": "crypto", "symbol": "AUDD", "side": "buy", "qty": 2352.5064812372475, "px": 0.6591, "reason": "action/PRIME", "r": 0.0, "id": "crypto-AUDD-20261123154230"}
 {"ts": "2026-11-23T23:44:24.642923-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 10659.597981540644, "px": 0.14281, "reason": "+2R take half", "r": 2.4, "id": "crypto-KITE-20261123120831"}
 {"ts": "2026-11-24T03:14:06.918522-07:00", "book": "crypto", "symbol": "KITE", "side": "sell", "qty": 10659.597981540644, "px": 0.1431, "reason": "stop", "r": 2.58, "id": "crypto-KITE-20261123120831"}
+{"ts": "2026-11-24T10:39:12.920840-07:00", "book": "scalp", "symbol": "MRSH", "side": "buy", "qty": 27, "px": 212.21, "reason": "action/PRIME", "r": 0.0, "id": "scalp-MRSH-20261124103912"}
+{"ts": "2026-11-24T11:40:44.645006-07:00", "book": "scalp", "symbol": "MRSH", "side": "sell", "qty": 27, "px": 211.87, "reason": "stop", "r": -1.0, "id": "scalp-MRSH-20261124103912"}
+{"ts": "2026-11-24T11:40:44.645006-07:00", "book": "scalp", "symbol": "BLK", "side": "buy", "qty": 5, "px": 1144.19, "reason": "action/PRIME", "r": 0.0, "id": "scalp-BLK-20261124114044"}
+{"ts": "2026-11-24T12:43:38.681299-07:00", "book": "scalp", "symbol": "DIS", "side": "sell", "qty": 18, "px": 122.55, "reason": "stop", "r": 13.25, "id": "scalp-DIS-20261123124556"}
+{"ts": "2026-11-24T12:43:38.681299-07:00", "book": "scalp", "symbol": "BHC", "side": "buy", "qty": 280, "px": 8.57, "reason": "action/PRIME", "r": 0.0, "id": "scalp-BHC-20261124124338"}
+{"ts": "2026-11-24T12:47:34.157802-07:00", "book": "scalp", "symbol": "BLK", "side": "sell", "qty": 5, "px": 1142.28, "reason": "stop", "r": -1.0, "id": "scalp-BLK-20261124114044"}
+{"ts": "2026-11-24T12:47:34.157802-07:00", "book": "scalp", "symbol": "BHC", "side": "sell", "qty": 280, "px": 8.56, "reason": "stop", "r": -1.0, "id": "scalp-BHC-20261124124338"}
+{"ts": "2026-11-25T04:19:06.531541-07:00", "book": "crypto", "symbol": "AUDD", "side": "sell", "qty": 2352.5064812372475, "px": 0.653291, "reason": "stop", "r": -1.0, "id": "crypto-AUDD-20261123154230"}

@@ -1,44 +1,5 @@
 {
   "schema": 1,
-  "positions": [
-    {
-      "id": "scalp-DIS-20261123124556",
-      "book": "scalp",
-      "symbol": "DIS",
-      "venue": "USD",
-      "fx": 1.37,
-      "openedAt": "2026-11-23T12:45:56.657246-07:00",
-      "entry": 119.9,
-      "qty": 18,
-      "qty0": 35,
-      "stop": 120.13,
-      "initStop": 119.7,
-      "mark": 120.33,
-      "rNow": 2.15,
-      "halfTaken": true,
-      "score": 100,
-      "why": "action/PRIME",
-      "target": 120.32
-    },
-    {
-      "id": "crypto-AUDD-20261123154230",
-      "book": "crypto",
-      "symbol": "AUDD",
-      "venue": "USDC",
-      "fx": 1.0,
-      "openedAt": "2026-11-23T15:42:30.403397-07:00",
-      "entry": 0.6591,
-      "qty": 2352.5064812372475,
-      "qty0": 2352.5064812372475,
-      "stop": 0.653291,
-      "initStop": 0.653291,
-      "mark": 0.6601,
-      "rNow": 0.17,
-      "halfTaken": false,
-      "score": 11,
-      "why": "action/PRIME",
-      "target": 0.6825
-    }
-  ],
-  "updatedAt": "2026-11-24T06:31:23.036370-07:00"
+  "positions": [],
+  "updatedAt": "2026-11-25T06:26:07.439899-07:00"
 }
