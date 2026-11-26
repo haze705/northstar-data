@@ -1,5 +1,44 @@
 {
   "schema": 1,
-  "positions": [],
-  "updatedAt": "2026-11-25T06:26:07.439899-07:00"
+  "positions": [
+    {
+      "id": "crypto-APR-20261125151346",
+      "book": "crypto",
+      "symbol": "APR",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-25T15:13:46.664333-07:00",
+      "entry": 0.0313,
+      "qty": 31401.09589,
+      "qty0": 31401.09589,
+      "stop": 0.02984,
+      "initStop": 0.02984,
+      "mark": 0.0314,
+      "rNow": 0.07,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.034
+    },
+    {
+      "id": "crypto-BTRST-20261125154640",
+      "book": "crypto",
+      "symbol": "BTRST",
+      "venue": "USDC",
+      "fx": 1.0,
+      "openedAt": "2026-11-25T15:46:40.271073-07:00",
+      "entry": 0.05815,
+      "qty": 36220.601916,
+      "qty0": 36220.601916,
+      "stop": 0.056886,
+      "initStop": 0.056886,
+      "mark": 0.05806,
+      "rNow": -0.07,
+      "halfTaken": false,
+      "score": 11,
+      "why": "action/PRIME",
+      "target": 0.06145
+    }
+  ],
+  "updatedAt": "2026-11-26T06:29:48.725108-07:00"
 }

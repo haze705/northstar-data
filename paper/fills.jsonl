@@ -318,3 +318,15 @@
 {"ts": "2026-11-24T12:47:34.157802-07:00", "book": "scalp", "symbol": "BLK", "side": "sell", "qty": 5, "px": 1142.28, "reason": "stop", "r": -1.0, "id": "scalp-BLK-20261124114044"}
 {"ts": "2026-11-24T12:47:34.157802-07:00", "book": "scalp", "symbol": "BHC", "side": "sell", "qty": 280, "px": 8.56, "reason": "stop", "r": -1.0, "id": "scalp-BHC-20261124124338"}
 {"ts": "2026-11-25T04:19:06.531541-07:00", "book": "crypto", "symbol": "AUDD", "side": "sell", "qty": 2352.5064812372475, "px": 0.653291, "reason": "stop", "r": -1.0, "id": "crypto-AUDD-20261123154230"}
+{"ts": "2026-11-25T10:17:10.211565-07:00", "book": "scalp", "symbol": "SJM", "side": "buy", "qty": 61, "px": 131.6, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SJM-20261125101710"}
+{"ts": "2026-11-25T10:43:53.576466-07:00", "book": "scalp", "symbol": "SJM", "side": "sell", "qty": 30, "px": 132.03, "reason": "+2R take half", "r": 4.78, "id": "scalp-SJM-20261125101710"}
+{"ts": "2026-11-25T11:13:15.362345-07:00", "book": "scalp", "symbol": "SJM", "side": "sell", "qty": 31, "px": 131.94, "reason": "stop", "r": 3.78, "id": "scalp-SJM-20261125101710"}
+{"ts": "2026-11-25T11:13:15.362345-07:00", "book": "scalp", "symbol": "NDAQ", "side": "buy", "qty": 76, "px": 106.72, "reason": "action/PRIME", "r": 0.0, "id": "scalp-NDAQ-20261125111315"}
+{"ts": "2026-11-25T11:41:08.771330-07:00", "book": "scalp", "symbol": "NDAQ", "side": "sell", "qty": 38, "px": 106.97, "reason": "+2R take half", "r": 12.5, "id": "scalp-NDAQ-20261125111315"}
+{"ts": "2026-11-25T12:45:02.247318-07:00", "book": "scalp", "symbol": "NDAQ", "side": "sell", "qty": 38, "px": 107.03, "reason": "stop", "r": 15.5, "id": "scalp-NDAQ-20261125111315"}
+{"ts": "2026-11-25T12:45:02.247318-07:00", "book": "scalp", "symbol": "GMAB", "side": "buy", "qty": 143, "px": 56.78, "reason": "action/PRIME", "r": 0.0, "id": "scalp-GMAB-20261125124502"}
+{"ts": "2026-11-25T12:45:02.247318-07:00", "book": "scalp", "symbol": "ULCC", "side": "buy", "qty": 4, "px": 7.93, "reason": "action/PRIME", "r": 0.0, "id": "scalp-ULCC-20261125124502"}
+{"ts": "2026-11-25T13:09:54.161125-07:00", "book": "scalp", "symbol": "GMAB", "side": "sell", "qty": 143, "px": 56.77, "reason": "stop", "r": -1.0, "id": "scalp-GMAB-20261125124502"}
+{"ts": "2026-11-25T13:09:54.161125-07:00", "book": "scalp", "symbol": "ULCC", "side": "sell", "qty": 4, "px": 7.92, "reason": "stop", "r": -1.0, "id": "scalp-ULCC-20261125124502"}
+{"ts": "2026-11-25T15:13:46.664333-07:00", "book": "crypto", "symbol": "APR", "side": "buy", "qty": 31401.09589, "px": 0.0313, "reason": "action/PRIME", "r": 0.0, "id": "crypto-APR-20261125151346"}
+{"ts": "2026-11-25T15:46:40.271073-07:00", "book": "crypto", "symbol": "BTRST", "side": "buy", "qty": 36220.601916, "px": 0.05815, "reason": "action/PRIME", "r": 0.0, "id": "crypto-BTRST-20261125154640"}
