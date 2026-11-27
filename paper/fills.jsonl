@@ -330,3 +330,5 @@
 {"ts": "2026-11-25T13:09:54.161125-07:00", "book": "scalp", "symbol": "ULCC", "side": "sell", "qty": 4, "px": 7.92, "reason": "stop", "r": -1.0, "id": "scalp-ULCC-20261125124502"}
 {"ts": "2026-11-25T15:13:46.664333-07:00", "book": "crypto", "symbol": "APR", "side": "buy", "qty": 31401.09589, "px": 0.0313, "reason": "action/PRIME", "r": 0.0, "id": "crypto-APR-20261125151346"}
 {"ts": "2026-11-25T15:46:40.271073-07:00", "book": "crypto", "symbol": "BTRST", "side": "buy", "qty": 36220.601916, "px": 0.05815, "reason": "action/PRIME", "r": 0.0, "id": "crypto-BTRST-20261125154640"}
+{"ts": "2026-11-26T18:15:08.794686-07:00", "book": "crypto", "symbol": "BTRST", "side": "sell", "qty": 36220.601916, "px": 0.056886, "reason": "stop", "r": -1.0, "id": "crypto-BTRST-20261125154640"}
+{"ts": "2026-11-26T18:15:08.794686-07:00", "book": "crypto", "symbol": "ALGO", "side": "buy", "qty": 11590.345919, "px": 0.0818, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ALGO-20261126181508"}
