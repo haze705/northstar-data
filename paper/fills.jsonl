@@ -332,3 +332,8 @@
 {"ts": "2026-11-25T15:46:40.271073-07:00", "book": "crypto", "symbol": "BTRST", "side": "buy", "qty": 36220.601916, "px": 0.05815, "reason": "action/PRIME", "r": 0.0, "id": "crypto-BTRST-20261125154640"}
 {"ts": "2026-11-26T18:15:08.794686-07:00", "book": "crypto", "symbol": "BTRST", "side": "sell", "qty": 36220.601916, "px": 0.056886, "reason": "stop", "r": -1.0, "id": "crypto-BTRST-20261125154640"}
 {"ts": "2026-11-26T18:15:08.794686-07:00", "book": "crypto", "symbol": "ALGO", "side": "buy", "qty": 11590.345919, "px": 0.0818, "reason": "action/PRIME", "r": 0.0, "id": "crypto-ALGO-20261126181508"}
+{"ts": "2026-11-27T09:10:22.400024-07:00", "book": "crypto", "symbol": "APR", "side": "sell", "qty": 31401.09589, "px": 0.02984, "reason": "stop", "r": -1.0, "id": "crypto-APR-20261125151346"}
+{"ts": "2026-11-27T10:12:05.685367-07:00", "book": "scalp", "symbol": "SYRE", "side": "buy", "qty": 77, "px": 104.75, "reason": "action/PRIME", "r": 0.0, "id": "scalp-SYRE-20261127101205"}
+{"ts": "2026-11-27T10:12:05.685367-07:00", "book": "scalp", "symbol": "HG", "side": "buy", "qty": 2, "px": 38.58, "reason": "action/PRIME", "r": 0.0, "id": "scalp-HG-20261127101205"}
+{"ts": "2026-11-27T10:39:25.812844-07:00", "book": "scalp", "symbol": "HG", "side": "sell", "qty": 1, "px": 38.85, "reason": "+2R take half", "r": 3.0, "id": "scalp-HG-20261127101205"}
+{"ts": "2026-11-27T15:42:55.031009-07:00", "book": "scalp", "symbol": "HG", "side": "sell", "qty": 1, "px": 38.76, "reason": "stop", "r": 2.0, "id": "scalp-HG-20261127101205"}

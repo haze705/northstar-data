@@ -2,25 +2,6 @@
   "schema": 1,
   "positions": [
     {
-      "id": "crypto-APR-20261125151346",
-      "book": "crypto",
-      "symbol": "APR",
-      "venue": "USDC",
-      "fx": 1.0,
-      "openedAt": "2026-11-25T15:13:46.664333-07:00",
-      "entry": 0.0313,
-      "qty": 31401.09589,
-      "qty0": 31401.09589,
-      "stop": 0.02984,
-      "initStop": 0.02984,
-      "mark": 0.0308,
-      "rNow": -0.34,
-      "halfTaken": false,
-      "score": 11,
-      "why": "action/PRIME",
-      "target": 0.034
-    },
-    {
       "id": "crypto-ALGO-20261126181508",
       "book": "crypto",
       "symbol": "ALGO",
@@ -32,13 +13,32 @@
       "qty0": 11590.345919,
       "stop": 0.077884,
       "initStop": 0.077884,
-      "mark": 0.08228,
-      "rNow": 0.12,
+      "mark": 0.07861,
+      "rNow": -0.81,
       "halfTaken": false,
       "score": 11,
       "why": "action/PRIME",
       "target": 0.08774
+    },
+    {
+      "id": "scalp-SYRE-20261127101205",
+      "book": "scalp",
+      "symbol": "SYRE",
+      "venue": "USD",
+      "fx": 1.37,
+      "openedAt": "2026-11-27T10:12:05.685367-07:00",
+      "entry": 104.75,
+      "qty": 77,
+      "qty0": 77,
+      "stop": 104.75,
+      "initStop": 104.52,
+      "mark": 104.93,
+      "rNow": 0.78,
+      "halfTaken": false,
+      "score": 100,
+      "why": "action/PRIME",
+      "target": 105.78
     }
   ],
-  "updatedAt": "2026-11-27T06:30:54.320799-07:00"
+  "updatedAt": "2026-11-28T06:26:04.894993-07:00"
 }
